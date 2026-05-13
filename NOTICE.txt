@@ -1,0 +1,14 @@
+DAYA — Document Aware hYbrid Architecture
+Copyright 2026 Ronak N Patel
+
+This product includes software developed by Ronak N Patel.[cite: 1]
+
+This product draws architectural inspiration from and/or incorporates elements from the following projects:[cite: 1]
+
+* Docling (https://github.com/docling-project/docling)
+  Copyright © IBM Corp.
+  Licensed under the MIT License.[cite: 1]
+
+* PageIndex (https://github.com/VectifyAI/PageIndex)
+  Copyright © VectifyAI
+  Licensed under the MIT License.[cite: 1]
