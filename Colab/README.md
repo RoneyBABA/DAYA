@@ -159,7 +159,6 @@ DAYA is built on top of outstanding open-source work:
 - **[ChromaDB](https://github.com/chroma-core/chroma)** — vector store (Apache 2.0)
 - **[Jina AI Embeddings](https://jina.ai)** — text embeddings
 - **[Groq](https://groq.com)** — LLM and VLM inference
-- **[PyMuPDF](https://github.com/pymupdf/PyMuPDF)** — PDF rendering (AGPL / commercial)
 - **[python-pptx](https://github.com/scanny/python-pptx)** — PPTX parsing (MIT)
 - **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** — OCR support (Apache 2.0)
 
