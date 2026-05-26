@@ -156,10 +156,9 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 ## Acknowledgements
 
 DAYA stands on the shoulders of two outstanding open-source projects:
+**[Docling](https://github.com/docling-project/docling)** by IBM Research Zurich. Licensed under MIT.
 
-**[Docling](https://github.com/docling-project/docling)** by IBM Research Zurich — for its best-in-class document parsing, layout understanding, and rich multi-format support. Licensed under MIT.
-
-**[PageIndex](https://github.com/VectifyAI/PageIndex)** by VectifyAI — for the insight that retrieval should be structured and reasoning-based, not similarity-based and chunked. Licensed under MIT.
+**[PageIndex](https://github.com/VectifyAI/PageIndex)** by VectifyAI. Licensed under MIT.
 
 Both projects are used in accordance with their respective MIT licenses.
 
@@ -167,6 +166,6 @@ Both projects are used in accordance with their respective MIT licenses.
 
 ## License
 
-DAYA is released under the Apache License 2.0.
+DAYA is released under the Apache License 2.0. see the [LICENSE](LICENSE) file for details.
 
 ---
