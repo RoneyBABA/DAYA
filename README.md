@@ -156,6 +156,7 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 ## Acknowledgements
 
 DAYA stands on the shoulders of two outstanding open-source projects:
+
 **[Docling](https://github.com/docling-project/docling)** by IBM Research Zurich. Licensed under MIT.
 
 **[PageIndex](https://github.com/VectifyAI/PageIndex)** by VectifyAI. Licensed under MIT.
