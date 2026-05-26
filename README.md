@@ -131,6 +131,28 @@ Open `DAYA.ipynb` and run all cells. When prompted, upload your document (PDF, P
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Here's how to get started:
+
+```bash
+# 1. Fork the repository
+# 2. Create your feature branch
+git checkout -b feature/your-feature-name
+
+# 3. Commit your changes
+git commit -m "feat: add your feature description"
+
+# 4. Push to your branch
+git push origin feature/your-feature-name
+
+# 5. Open a Pull Request
+```
+
+Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
+
+---
+
 ## Acknowledgements
 
 DAYA stands on the shoulders of two outstanding open-source projects:
