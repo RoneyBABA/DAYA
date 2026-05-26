@@ -122,12 +122,12 @@ Open `DAYA.ipynb` and run all cells. When prompted, upload your document (PDF, P
 | Component | Technology |
 |---|---|
 | Document parsing | [Docling](https://github.com/docling-project/docling) |
-| Figure understanding | Llama 4 Scout 17B (via Groq) |
-| PPTX rendering | LibreOffice + PyMuPDF |
-| Tree indexing | Custom (PageIndex-inspired) |
-| Embeddings | Jina AI `jina-embeddings-v5-text-small` |
-| Vector store | ChromaDB |
-| LLM inference | Groq (`openai/gpt-oss-120b`) |
+| Figure understanding | Llama 4 Scout 17B (via [Groq](https://groq.com) |
+| PPTX rendering | LibreOffice |
+| Tree indexing | Custom ([PageIndex-inspired](https://github.com/VectifyAI/PageIndex)) |
+| Embeddings | [Jina AI](https://github.com/jina-ai) `jina-embeddings-v5-text-small` |
+| Vector store | [ChromaDB](https://www.trychroma.com/) |
+| LLM inference | Groq (`openai/gpt-oss-120b`) (via [Groq](https://groq.com)) |
 
 ---
 
