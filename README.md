@@ -167,6 +167,6 @@ Both projects are used in accordance with their respective MIT licenses.
 
 ## License
 
-DAYA is released under the Apache License 2.0. see the [LICENSE](LICENSE) file for details.
+DAYA is released under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ---
