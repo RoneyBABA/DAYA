@@ -13,16 +13,56 @@
 </div>
 
 ---
+## The Problem with Traditional RAG
 
-## Why DAYA Exists
+Vector-based RAG is the industry default — and it is fundamentally broken for complex, real-world documents.
 
-Every document understanding framework today has a fatal flaw. Pick one, and you're making a tradeoff you didn't sign up for.
+The issues are structural, not superficial:
 
-**Docling** is exceptional at parsing complex documents — it captures tables, charts, images, and rich layouts with impressive fidelity. But the moment it comes to retrieval, it falls back on chunking. Chunks don't know what page they came from. Chunks don't know their neighbors. Chunks don't *think*.
+**Chunking destroys semantic integrity.** Documents are split at arbitrary token boundaries — cutting through procedures, checklists, tables, and cross-references. Each chunk is processed in isolation, therefore looses **context**. 
 
-**PageIndex** flips the script beautifully — no chunking, hierarchical tree indexing, reasoning-based retrieval. Elegant and effective for text-heavy documents. But throw a heavily illustrated PowerPoint or a figure-dense research paper at it, and the visual context simply disappears.
+**Similarity is not relevance.** Vector search matches text that **looks** like the query, not text that **answers** it. In technical and professional documents, the truly relevant section is frequently not retrieved.
 
-**DAYA bridges this gap.** It takes Docling's rich layout and illustration capture, wires it to a PageIndex-inspired hierarchical tree structure, and delivers retrieval that is both visually complete and structurally aware. Every chart gets described. Every slide gets indexed. Every query gets answered with page-level precision.
+**Redundant retrievals cause context confusion.** When multiple similar chunks are returned together, the LLM is forced to reconcile contradictory or overlapping content. This **enables LLMs to hallucinate**.
+
+**Visual content is invisible.** Charts, figures, diagrams, and illustrated slides are discarded at the preprocessing stage. No embedding model reads a bar chart. No chunk captures what a schematic actually shows.
+
+**DAYA was built to solve all five of these failures — not patch around them.**
+
+---
+
+## Beyond PageIndex
+
+PageIndex proved that reasoning beats similarity. Hierarchical tree indexing, no chunking, LLM-guided retrieval — a genuine leap forward.
+
+But PageIndex is **visually blind**. Feed it a slide deck or a figure-dense manual, and the visual content simply disappears.
+
+DAYA takes PageIndex's reasoning paradigm and goes further by combining it with Docling's industry-leading layout extraction and a vision-language model — so nothing in your document is ever invisible.
+
+---
+
+## How DAYA Solves Each Failure
+
+### No Chunking — Structure-Preserved Indexing
+
+### Reasoning over the Tree, Not Similarity over Chunks
+
+### Multi-Hop Retrieval by Design
+
+### High Precision Through Structural Targeting
+
+### Full Visual Understanding via Docling + VLM
+
+| Capability | Vector RAG | PageIndex | **DAYA** |
+|---|:---:|:---:|:---:|
+| No arbitrary chunking | ❌ | ✅ | ✅ |
+| Hierarchical tree index | ❌ | ✅ | ✅ |
+| Reasoning-based retrieval | ❌ | ✅ | ✅ |
+| Page-level citations | ❌ | ✅ | ✅ |
+| Rich PDF layout (tables, formulas) | ❌ | ❌ | ✅ |
+| PPTX / illustrated document support | ❌ | ❌ | ✅ |
+| Figure & chart understanding (VLM) | ❌ | ❌ | ✅ |
+| Multi-question decomposition | ❌ | ❌ | ✅ |.
 
 ---
 
@@ -72,20 +112,6 @@ Each tree node is embedded using Jina AI's `jina-embeddings-v5-text-small` (up t
 ### Stage 4 — Retrieval and Inference (Groq LLM)
 
 Queries are first decomposed into atomic sub-questions (pronoun resolution included) by the LLM. Each sub-question is embedded and matched against ChromaDB using distance thresholding (≤ 0.85) and frequency-based filtering to identify the most relevant page ranges. The corresponding tree nodes are extracted, and the LLM answers strictly from the retrieved text — with page-level citations enforced by the system prompt.
-
----
-
-## What DAYA Handles That Others Don't
-
-| Capability | Docling (alone) | PageIndex (alone) | DAYA |
-|---|:---:|:---:|:---:|
-| Rich PDF layout (tables, formulas) | ✅ | ❌ | ✅ |
-| PPTX / heavily illustrated docs | ✅ | ❌ | ✅ |
-| Figure / chart understanding | ✅ (VLM) | ❌ | ✅ (VLM) |
-| No arbitrary chunking | ❌ | ✅ | ✅ |
-| Hierarchical tree index | ❌ | ✅ | ✅ |
-| Page-level retrieval | ❌ | ✅ | ✅ |
-| Multi-question decomposition | ❌ | ❌ | ✅ |
 
 ---
 
