@@ -19,19 +19,19 @@ Vector-based RAG is the industry default — and it is fundamentally broken for 
 
 The issues are structural, not superficial:
 
-### **Chunking destroys semantic integrity.** 
+### **1. Chunking destroys semantic integrity.** 
 
 Documents are split at arbitrary token boundaries — cutting through procedures, checklists, tables, and cross-references. Each chunk is processed in isolation, therefore looses **context**. 
 
-### **Similarity is not relevance.** 
+### **2. Similarity is not relevance.** 
 
 Vector search matches text that **looks** like the query, not text that **answers** it. In technical and professional documents, the truly relevant section is frequently not retrieved.
 
-### **Redundant retrievals cause context confusion.** 
+### **3. Redundant retrievals cause context confusion.** 
 
 When multiple similar chunks are returned together, the LLM is forced to reconcile contradictory or overlapping content. This **enables LLMs to hallucinate**.
 
-### **Visual content is invisible.** 
+### **4. Visual content is invisible.** 
 
 Charts, figures, diagrams, and illustrated slides are discarded at the preprocessing stage. No embedding model reads a bar chart. No chunk captures what a schematic actually shows.
 
