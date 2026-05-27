@@ -19,18 +19,23 @@ Vector-based RAG is the industry default — and it is fundamentally broken for 
 
 The issues are structural, not superficial:
 
-**Chunking destroys semantic integrity.** 
+###**Chunking destroys semantic integrity.** 
+
 Documents are split at arbitrary token boundaries — cutting through procedures, checklists, tables, and cross-references. Each chunk is processed in isolation, therefore looses **context**. 
 
-**Similarity is not relevance.** 
+###**Similarity is not relevance.** 
 
 Vector search matches text that **looks** like the query, not text that **answers** it. In technical and professional documents, the truly relevant section is frequently not retrieved.
 
-**Redundant retrievals cause context confusion.** When multiple similar chunks are returned together, the LLM is forced to reconcile contradictory or overlapping content. This **enables LLMs to hallucinate**.
+###**Redundant retrievals cause context confusion.** 
 
-**Visual content is invisible.** Charts, figures, diagrams, and illustrated slides are discarded at the preprocessing stage. No embedding model reads a bar chart. No chunk captures what a schematic actually shows.
+When multiple similar chunks are returned together, the LLM is forced to reconcile contradictory or overlapping content. This **enables LLMs to hallucinate**.
 
-**DAYA was built to solve all five of these failures — not patch around them.**
+###**Visual content is invisible.** 
+
+Charts, figures, diagrams, and illustrated slides are discarded at the preprocessing stage. No embedding model reads a bar chart. No chunk captures what a schematic actually shows.
+
+**DAYA was built to solve all four of these failures — not patch around them.**
 
 ---
 
