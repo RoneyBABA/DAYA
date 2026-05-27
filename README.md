@@ -39,7 +39,7 @@ Charts, figures, diagrams, and illustrated slides are discarded at the preproces
 
 ---
 
-## Beyond PageIndex
+## PageIndex-inspired
 
 PageIndex proved that reasoning beats similarity. Hierarchical tree indexing, no chunking, LLM-guided retrieval — a genuine leap forward.
 
@@ -54,8 +54,6 @@ DAYA takes PageIndex's reasoning paradigm and goes further by combining it with 
 ### No Chunking — Structure-Preserved Indexing
 
 ### Reasoning over the Tree, Not Similarity over Chunks
-
-### Multi-Hop Retrieval by Design
 
 ### High Precision Through Structural Targeting
 
