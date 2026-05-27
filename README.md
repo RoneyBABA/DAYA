@@ -3,7 +3,7 @@
 # DAYA
 ### Document Aware hYbrid Architecture
 
-**The RAG pipeline that sees *everything* — text, tables, charts, and visuals — without losing the plot.**
+**The RAG pipeline built for precision, by eliminating *chunking stratergies* for illustrated documents.**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)](https://www.python.org/)
