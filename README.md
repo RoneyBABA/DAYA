@@ -41,11 +41,11 @@ Charts, figures, diagrams, and illustrated slides are discarded at the preproces
 
 ## PageIndex-inspired
 
-PageIndex proved that reasoning beats similarity. Hierarchical tree indexing, no chunking, LLM-guided retrieval — a genuine leap forward.
+PageIndex is a genuine step forward: hierarchical tree indexing, no chunking, LLM-driven structure extraction with self-correction across up to three retry rounds.
 
-But PageIndex is **visually blind**. Feed it a slide deck or a figure-dense manual, and the visual content simply disappears.
+But PageIndex is **visually blind**. Feed it a slide deck or a figure-dense manual, and the visual content simply disappears. At query time, every retrieval step burns an LLM call to navigate the tree.
 
-DAYA takes PageIndex's reasoning paradigm and goes further by combining it with Docling's industry-leading layout extraction and a vision-language model — so nothing in your document is ever invisible.
+DAYA takes PageIndex's reasoning paradigm and goes further by combining it with Docling's industry-leading layout extraction and a vision-language model — so nothing in your document is ever invisible.No LLM at retrieval time means lower latency and zero cost per query.
 
 ---
 
@@ -65,6 +65,7 @@ DAYA takes PageIndex's reasoning paradigm and goes further by combining it with 
 | Hierarchical tree index | ❌ | ✅ | ✅ |
 | Reasoning-based retrieval | ❌ | ✅ | ✅ |
 | Page-level citations | ❌ | ✅ | ✅ |
+| LLM - free retrieval | ✅ | ❌ | ✅ |
 | Rich PDF layout (tables, formulas) | ❌ | ❌ | ✅ |
 | PPTX / illustrated document support | ❌ | ❌ | ✅ |
 | Figure & chart understanding (VLM) | ❌ | ❌ | ✅ |
