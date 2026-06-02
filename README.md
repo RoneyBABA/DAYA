@@ -59,17 +59,16 @@ DAYA takes PageIndex's reasoning paradigm and goes further by combining it with 
 
 ### Full Visual Understanding via Docling + VLM
 
-| Capability | Vector RAG | PageIndex | **DAYA** |
+| Capability | Vector RAG | PageIndex | DAYA |
 |---|:---:|:---:|:---:|
 | No arbitrary chunking | ❌ | ✅ | ✅ |
 | Hierarchical tree index | ❌ | ✅ | ✅ |
 | Reasoning-based retrieval | ❌ | ✅ | ✅ |
 | Page-level citations | ❌ | ✅ | ✅ |
-| LLM - free retrieval | ✅ | ❌ | ✅ |
-| Rich PDF layout (tables, formulas) | ❌ | ❌ | ✅ |
-| PPTX / illustrated document support | ❌ | ❌ | ✅ |
-| Figure & chart understanding (VLM) | ❌ | ❌ | ✅ |
-| Multi-question decomposition | ❌ | ❌ | ✅ |.
+| LLM-free retrieval | ✅ | ❌ | ✅ |
+| Text-only final inference | ✅ | ❌ | ✅ |
+| Multi-question decomposition | ❌ | ❌ | ✅ |
+| Zero LLM calls at query time | ✅ | ❌ | ✅ |
 
 ---
 
