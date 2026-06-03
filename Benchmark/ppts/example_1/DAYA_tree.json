@@ -1,0 +1,1091 @@
+{
+  "total_pages": 23,
+  "nodes": [
+    {
+      "title": "Figure (p.1)",
+      "node_id": "0143",
+      "page_index": 1,
+      "text": "# Washington State Department of Veterans Affairs Logo\n\n## Logo Description\nThe logo features a stylized combination mark with the letters \"V\" and \"A\" in red and blue, accompanied by a star within a triangle.\n\n## Text Extraction\n- **Washington State Department of Veterans Affairs**\n\n## Summary\nThe image represents the logo of the **Washington State Department of Veterans Affairs**. The logo accounts for a stylized visual identity combining the letters \"V\" and \"A\" with a star in a triangle, symbolizing the department's affiliation with veterans affairs. The text \"Washington State Department of Veterans Affairs\" shows the full name of the department, indicating its role and jurisdiction. This logo contributes to the department's brand recognition and identity. \n\nThe subject of the image is the **Washington State Department of Veterans Affairs logo**, which represents the department's visual identity. The logo features a combination mark with a star and silhouettes, which accounts for a unique and recognizable symbol. The text provides context, indicating that the logo is associated with the **Washington State Department of Veterans Affairs**, which totals a clear and direct identification of the department. \n\nThe image answers the following questions:\n- **What**: The logo of the Washington State Department of Veterans Affairs.\n- **Which**: The Washington State Department of Veterans Affairs.\n- **What does it represent**: The visual identity and brand of the Washington State Department of Veterans Affairs."
+    },
+    {
+      "title": "Figure (p.1)",
+      "node_id": "0142",
+      "page_index": 1,
+      "text": "# Technical Diagram/Flowchart/Schematic\n\n## Diagram Components\n- **Plan & Align Workforce** (green box)\n  - Connected to: Deploy Workforce\n- **Hire Workforce** (red box)\n  - Connected to: Deploy Workforce\n- **Deploy Workforce** (blue box)\n  - Connected to: \n    - Plan & Align Workforce (bidirectional)\n    - Hire Workforce\n    - Develop Workforce\n    - Reinforce Performance\n- **Develop Workforce** (brown box)\n  - Connected to: Deploy Workforce\n- **Reinforce Performance** (purple box)\n  - Connected to: Deploy Workforce\n\n## Connections\n- **Plan & Align Workforce** → **Deploy Workforce**\n- **Hire Workforce** → **Deploy Workforce**\n- **Deploy Workforce** → **Reinforce Performance**\n- **Deploy Workforce** → **Develop Workforce**\n- **Develop Workforce** → **Deploy Workforce** (bidirectional implied through Deploy Workforce)\n\n## Hierarchy\n1. **Plan & Align Workforce**\n2. \n   - **Hire Workforce**\n   - **Deploy Workforce**\n     - **Develop Workforce**\n     - **Reinforce Performance**\n\n## Summary\nThe diagram illustrates a workforce management process. \n- **Plan & Align Workforce** accounts for the initial planning and alignment of the workforce.\n- The process to **Hire Workforce** represents the step of recruiting new employees.\n- **Deploy Workforce** shows the deployment of the workforce, which is connected to and influenced by **Plan & Align Workforce**, **Hire Workforce**, **Develop Workforce**, and **Reinforce Performance**.\n- **Develop Workforce** contributes to enhancing the skills and capabilities of the existing workforce.\n- **Reinforce Performance** totals the performance reinforcement within the workforce.\n\n## Detailed Report\nThe subject of the diagram is a workforce management and development process. \n- The process starts with **Plan & Align Workforce**, which represents the strategic planning and alignment of workforce capabilities with organizational goals.\n- **Hire Workforce** shows the process of recruiting and hiring new employees, which directly contributes to deploying an effective workforce.\n- **Deploy Workforce** is central, representing the allocation and management of workforce resources. \n- **Develop Workforce** accounts for the growth and development of existing employees, which is crucial for enhancing performance.\n- **Reinforce Performance** represents the continuous improvement and reinforcement of employee performance.\n\nThe diagram shows how these components interact, with **Deploy Workforce** at the core, indicating its pivotal role in integrating all aspects of workforce management. \n- What is the primary focus of the diagram? \n  - The primary focus is on workforce management and development.\n- How much interaction exists between components? \n  - There are significant interactions, with **Deploy Workforce** being a central point of connection.\n- Who or what is involved in the process? \n  - The process involves planning, hiring, deploying, developing, and reinforcing workforce performance.\n- Which component is central to the process? \n  - **Deploy Workforce** is central. \n\n## Legends, Keys & Footnotes\nNo legends, keys, or footnotes are present in the diagram.\n\nThe summary and detailed report provide a comprehensive overview of the workforce management process depicted in the diagram, highlighting the interconnectedness of planning, hiring, deploying, developing, and reinforcing workforce performance."
+    },
+    {
+      "title": "Managers' Logic Model for Workforce Management",
+      "node_id": "0001",
+      "page_index": 2,
+      "text": "Managers' Logic Model for Workforce Management",
+      "children": [
+        {
+          "title": "Figure (p.2)",
+          "node_id": "0144",
+          "page_index": 2,
+          "text": "# Technical Diagram/Flowchart/Schematic\n\n## Diagram Overview\nThe image presents a technical diagram illustrating the workforce management process, which is divided into five main sections: Plan & Align Workforce, Hire Workforce, Deploy Workforce, Develop Workforce, and Reinforce Performance. Each section outlines the outputs, initial outcomes, and intermediate outcomes that contribute to the ultimate outcomes.\n\n## Labeled Components and Connections\n\n### Main Sections\n1. **Plan & Align Workforce**\n   - Outputs: \n     - Articulation of managers HRM accountabilities. HR policies. Workforce planning. Job classes & salaries assigned.\n   - Initial Outcomes: \n     - Managers understand HRM accountabilities. Jobs, staffing levels, & competencies aligned with agency priorities.\n   - Intermediate Outcomes: \n     - Foundation is in place to build and sustain a productive, high performing workforce.\n\n2. **Hire Workforce**\n   - Outputs: \n     - Qualified candidate pools, interviews & reference checks. Job offers. Appts & performance monitoring.\n   - Initial Outcomes: \n     - Best candidate hired & reviewed during appointment period. Successful performers retained.\n   - Intermediate Outcomes: \n     - The right people are in the right job at the right time.\n\n3. **Deploy Workforce**\n   - Outputs: \n     - Work assignments & requirements defined. Positive workplace environment created. Coaching, feedback, corrections.\n   - Initial Outcomes: \n     - Workplace is safe, gives capacity to perform, & fosters productive relations. Staff know job reqmts, how they're doing, & are supported.\n   - Intermediate Outcomes: \n     - Time & talent is used effectively. Employees are motivated & productive.\n\n4. **Develop Workforce**\n   - Outputs: \n     - Individual development plans. Time/ resources for training. Continuous learning environment created.\n   - Initial Outcomes: \n     - Learning environment created. Employees are engaged in development opportunities & seek to learn.\n   - Intermediate Outcomes: \n     - Employees have competencies for present job & career advancement.\n\n5. **Reinforce Performance**\n   - Outputs: \n     - Clear performance expectations linked to orgn'al goals & measures. Regular performance appraisals. Recognition. Discipline.\n   - Initial Outcomes: \n     - Employees know how performance contributes to success of orgn. Strong performance rewarded; poor performance eliminated\n   - Intermediate Outcomes: \n     - Successful perf is differentiated & strengthened. Employees are held accountable.\n\n### Ultimate Outcomes\n- Employees are committed to the work they do & the goals of the organization\n- Productive, successful employees are retained\n- State has workforce depth & breadth needed for present and future success\n- Agencies are better enabled to successfully carry out their mission. The citizens receive efficient government services.\n\n## Hierarchy and Structure\nThe diagram is structured in a hierarchical manner, with each main section building upon the previous one to achieve the ultimate outcomes. The sections are connected through arrows, indicating the flow of processes and outcomes.\n\n## Summary\nThe workforce management process accounts for the systematic approach to planning, hiring, deploying, developing, and reinforcing performance within an organization. The process represents a comprehensive strategy that contributes to building a productive and high-performing workforce. It totals five main sections, each with specific outputs, initial outcomes, and intermediate outcomes that collectively show how the organization achieves its ultimate goals. The diagram illustrates how the right people are hired and retained, and how their performance is managed and improved over time. The ultimate outcomes represent the successful implementation of this process, including committed employees, productive workforce, and efficient government services. \n\nThe process shows that planning and aligning the workforce is crucial for setting the foundation for a productive workforce. Hiring the right people at the right time is essential for achieving the organization's goals. Deploying the workforce effectively leads to motivated and productive employees. Developing the workforce ensures that employees have the necessary competencies for their present and future roles. Finally, reinforcing performance through regular evaluations and feedback leads to a culture of accountability and continuous improvement. \n\nOverall, the diagram provides a clear and structured approach to workforce management, highlighting the importance of a systematic and comprehensive strategy for achieving organizational success."
+        }
+      ]
+    },
+    {
+      "title": "Plan & Align Workforce",
+      "node_id": "0002",
+      "page_index": 3,
+      "text": "Plan & Align Workforce"
+    },
+    {
+      "title": "Hire Workforce",
+      "node_id": "0003",
+      "page_index": 3,
+      "text": "Hire Workforce"
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0004",
+      "page_index": 3,
+      "text": "Deploy Workforce"
+    },
+    {
+      "title": "Develop Workforce",
+      "node_id": "0005",
+      "page_index": 3,
+      "text": "Develop Workforce"
+    },
+    {
+      "title": "Reinforce Performance",
+      "node_id": "0006",
+      "page_index": 3,
+      "text": "Reinforce Performance"
+    },
+    {
+      "title": "Standard Performance Measures",
+      "node_id": "0007",
+      "page_index": 3,
+      "text": "Standard Performance Measures\nPercent supervisors with current performance expectations for workforce management\nWorkforce planning measure (TBD)\nManagement profile\nPercent employees with current positionlcompetencies descriptions\nTime-to-fill funded vacancies\nCandidate quality\nSeparation during review period\nHiring Balance (Proportion of appointment types)\nPercent employees with current performance expectations\nOvertime usage\nEmployee survey ratings on \"productive workplace\" questions\nSick leave usage\nWorker safety\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nPercent employees with current individual development plans\nCompetency gap analysis (TBD)\nEmployee survey ratings on \"learning & development\" questions\nPercent employees with current performance evaluations\nDisciplinary actions and reasons; disciplinary grievanceslappeals filed and dispositioh (outcomes)\nEmployee survey ratings on \"performance & accountability\" questions\nReward and recognition practices (TBD)"
+    },
+    {
+      "title": "Ultimate Outcomes",
+      "node_id": "0008",
+      "page_index": 3,
+      "text": "Ultimate Outcomes\nEmployee survey ratings on \"commitment\" questions\nTurnover rates and types\nTurnover rate: key occupational categories\nWorkforce diversity profile\nRetention measure (TBD)"
+    },
+    {
+      "title": "Plan & Align Workforce",
+      "node_id": "0009",
+      "page_index": 4,
+      "text": "Plan & Align Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0010",
+      "page_index": 4,
+      "text": "Outcomes:\nManagers understand workforce management accountabilities. Jobs and competencies are defined and aligned with business priorities. Overall foundation is in place to build & sustain a high performing workforce\nPerformance Measures:\nPercent supervisors with current performance expectations for workforce management\nManagement profile\nWorkforce Planning measure (TBD)\nPercent employees with current positionl competency descriptions"
+    },
+    {
+      "title": "Workforce Management Expectations",
+      "node_id": "0011",
+      "page_index": 4,
+      "text": "Workforce Management Expectations\nPercent supervisors with current performance expectations for workforce management = 1009*\n#Based on 119 of 119 reported number of supervisors\nThe Washington State Department of Veterans Affairs was the first cabinet agency to receive Performance Management Confirmation.   Setting clear expectations for staff is key."
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0012",
+      "page_index": 4,
+      "text": "Analysis:\nThe WDVA has received Performance Management Confirmation. As part of our commitment to providing clear expectations to all staff, including supervisors; the Director set a target of 100% completion on Performance and Development Plans (PDP).\nSupervisors have been trained in writing effective PDPs.\nProgress in achieving a 100% completion rate is monitored and reported in management team meetings and is a priority in the agency.\nThe Human Resources staff provided updates on the completion rate to the Director quarterly.\nThe Director affirmed his commitment to a 100% completion rate and monitored our progress regularly ."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0013",
+      "page_index": 4,
+      "text": "Action Steps:\nMaintain 100% completion rate for performance expectations.\nComplete quarterly reviews of Performance and Development Plans (PDP) at the same rate (100%/) .\nUtilize the information gained from the PDPs in the Performance Management Confirmation awards process.\nContinue reporting PDP completion rate to the Director on a quarterly basis."
+    },
+    {
+      "title": "Plan & Align Workforce",
+      "node_id": "0014",
+      "page_index": 5,
+      "text": "Plan & Align Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0015",
+      "page_index": 5,
+      "text": "Outcomes:\nManagers understand workforce management accountabilities. Jobs and competencies are defined and aligned with business priorities. Overall foundation is in place to build & sustain a high performing workforce."
+    },
+    {
+      "title": "Performance Measures:",
+      "node_id": "0016",
+      "page_index": 5,
+      "text": "Performance Measures:\nPercent supervisors with current performance expectations for workforce management"
+    },
+    {
+      "title": "Management profile",
+      "node_id": "0017",
+      "page_index": 5,
+      "text": "Management profile\nWorkforce Planning measure (TBD)\nPercent employees with current positionl competency descriptions"
+    },
+    {
+      "title": "Management Profile",
+      "node_id": "0018",
+      "page_index": 5,
+      "text": "Management Profile\nWMS Employees Headcount = 29\nPercent of agency workforce that is WMS = 4.39\nManagers* Headcount = 32\nPercent of agency workforce that is Managers* = 4.7%\nIn positions coded as \"Manager\" (includes EMS; WMS; and GS)",
+      "children": [
+        {
+          "title": "Figure (p.5)",
+          "node_id": "0145",
+          "page_index": 5,
+          "text": "# Washington Management Service Headcount Trend\n\n## Chart Type\nThe image is a bar chart.\n\n## Chart Details\n- **Chart Type:** Bar chart\n- **Title:** Washington Management Service Headcount Trend\n- **Y-axis Title:** # WMS Employees (Headcount)\n- **X-axis Title:** Months (Jul-06 to Jun-07)\n- **Y-axis Values:** 25 to 35\n\n## Data Series\n- **Series Name:** WMS Employees\n- **Data Points:**\n  - Jul-06: (Jul-06, 29)\n  - Aug-06: (Aug-06, 29)\n  - Sep-06: (Sep-06, 30)\n  - Oct-06: (Oct-06, 29)\n  - Nov-06: (Nov-06, 29)\n  - Dec-06: (Dec-06, 29)\n  - Jan-07: (Jan-07, 31)\n  - Feb-07: (Feb-07, 30)\n  - Mar-07: (Mar-07, 29)\n  - Apr-07: (Apr-07, 29)\n  - May-07: (May-07, 29)\n  - Jun-07: (Jun-07, 29)\n\n## Summary\nThe Washington Management Service Headcount Trend chart accounts for the number of WMS employees from July 2006 to June 2007. The chart represents a steady trend with a peak in January 2007, showing 31 employees. The headcount totals 29 employees for the majority of the months, with variations to 30 and 31 employees in a few months. This chart shows that the headcount was stable, with the highest number of employees in January 2007, which contributes to an understanding of WMS employee trends over the year. The data points indicate which months had increased or decreased headcounts, and how much. \n\nThe subject, value, and context of every sentence in the summary are as follows:\n- The subject is the Washington Management Service Headcount Trend chart.\n- The value represents the number of WMS employees.\n- The context is the time period from July 2006 to June 2007.\n\nThe summary answers the following questions:\n- What: The Washington Management Service Headcount Trend chart.\n- How much: The headcount ranges from 29 to 31 employees.\n- Who: WMS employees.\n- Which: The months with increased headcounts are September 2006, February 2007, and January 2007."
+        },
+        {
+          "title": "Figure (p.5)",
+          "node_id": "0146",
+          "page_index": 5,
+          "text": "# WMS Management Type\n\n## Chart Information\nThe image displays a **pie chart**.\n\n## Chart Details\n- **Chart Type**: Pie Chart\n- **Title**: WMS Management Type\n\n## Data Series\nThe pie chart has three sections:\n- **Management**: 90%\n- **Policy**: 7%\n- **Consultant**: 3%\n\n## Summary\nThe WMS Management Type pie chart accounts for the distribution of management types, representing a significant dominance of **Management** at 90%. The **Policy** section contributes 7%, while **Consultant** totals 3%. This chart shows that Management is the primary type, with Policy and Consultant playing smaller roles. \n\nThe subject of the chart, WMS Management Type, represents the various management types, with Management being the largest segment, which accounts for 90% of the distribution. The chart displays how much each type contributes to the whole, with Management showing the most significant portion. \n\nThe image does not specify who or which entity the data pertains to but clearly indicates the proportional distribution among Management, Policy, and Consultant types. \n\n## Legends, Keys & Footnotes\nNo legends, keys, or footnotes are provided in the image.\n\n## Summary Report\nThe WMS Management Type pie chart shows that Management accounts for 90% of the distribution. Policy represents 7%, and Consultant totals 3%. This indicates that Management is the predominant type in WMS management. The chart provides a clear visual representation of how different management types are distributed, with Management being the most significant. Which management type is most prevalent? Management is. How much does Policy contribute? 7%. What type of chart is used? A pie chart."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0019",
+      "page_index": 5,
+      "text": "Analysis:\nThe WDVA appropriately utilizes management level positions to accomplish the agency's mission and goals.\nAs a result of the required management cuts, WDVA has streamlined processes to ensure are being performed in as an efficient manner as possible. they\nAction Steps:\nThe WDVA will continue to analyze the number of management positions it uses to ensure we are at an appropriate level to accomplish our mission and goals.\nThe WDVA will continue to assess processesefr potential areas of\n| Management   |   26 |\n|--------------|------|\n| Consultant   |    1 |\n| Policy       |    2 |"
+    },
+    {
+      "title": "Plan & Align Workforce",
+      "node_id": "0020",
+      "page_index": 6,
+      "text": "Plan & Align Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0021",
+      "page_index": 6,
+      "text": "Outcomes:\nManagers understand workforce management accountabilities. Jobs and competencies are defined and aligned with business priorities. Overall foundation is in place to build & sustain a high performing workforce\nPerformance Measures:\nPercent supervisors with current performance expectations for workforce management\nManagement profile\nWorkforce Planning measure (TBD)\nPercent employees with current positionl competency descriptions"
+    },
+    {
+      "title": "Current PositionlCompetency Descriptions",
+      "node_id": "0022",
+      "page_index": 6,
+      "text": "Current PositionlCompetency Descriptions"
+    },
+    {
+      "title": "Percent employees with current positionlcompetency descriptions = 1009*",
+      "node_id": "0023",
+      "page_index": 6,
+      "text": "Percent employees with current positionlcompetency descriptions = 1009*\n*Based on 585 of 585 reported employee count Applies to employees in permanent positions; both WMS & GS\nThe Washington State Department of Veterans Affairs was the first cabinet agency to receive Performance Management Confirmation:.   Ensuring staff are aware of the duties and responsibilities to fulfill the requirements of their jobs is key to their overall success."
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0024",
+      "page_index": 6,
+      "text": "Analysis:\nIn preparing for performance management confirmation; the agency focused on ensuring each employee was aware of the requirements of hislher position.\nThis awareness includes ensuring position descriptions have been updated and those position descriptions are shared with the affected employee.\nEmployees are fully aware of the duties; essential functions and objectives of their positions.\nThese position descriptions are used in conjunction with the Performance and Development Plans in holding employees accountable."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0025",
+      "page_index": 6,
+      "text": "Action Steps:\nSupervisors will continue to update position descriptions as necessary .\nSupervisors will review the position descriptions as requirements of the position change and at least annually, at the time of the Performance and Development Plan review, with each employee.\nThe position description will be used as a management tool in holding employees accountable for meeting the expectations of their position:"
+    },
+    {
+      "title": "Hire Workforce",
+      "node_id": "0026",
+      "page_index": 7,
+      "text": "Hire Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0027",
+      "page_index": 7,
+      "text": "Outcomes:\nBest candidates are hired and reviewed during appointment period. The right people are in the right job at the right time\nPerformance Measures\nTime-to-fill vacancies\nCandidate quality\nHiring Balance (proportion of appointment types)\nSeparation during review period"
+    },
+    {
+      "title": "Time-to-fill / Candidate Quality",
+      "node_id": "0028",
+      "page_index": 7,
+      "text": "Time-to-fill / Candidate Quality"
+    },
+    {
+      "title": "Time-to-fill Funded Vacancies",
+      "node_id": "0029",
+      "page_index": 7,
+      "text": "Time-to-fill Funded Vacancies\nAverage number of days to fill*:\n55.5\nNumber of vacancies filled:\n19\n*Equals # of days from creation of the requisition to job offer acceptance or actual start date, whichever is less\nTime Period:   April 25, 2007 ~June 30, 2007",
+      "children": [
+        {
+          "title": "55.5",
+          "node_id": "0030",
+          "page_index": 7,
+          "text": "55.5"
+        },
+        {
+          "title": "19",
+          "node_id": "0031",
+          "page_index": 7,
+          "text": "19"
+        }
+      ]
+    },
+    {
+      "title": "Candidate Quality",
+      "node_id": "0032",
+      "page_index": 7,
+      "text": "Candidate Quality\nOf the candidates interviewed for vacancies; how many had the competencies (knowledge; skills & abilities) needed to perform the job?\nNumber = 45 Percentage = 709\nOf the candidates interviewed, were managers able to hire the best candidate for the job? hiring\nHiring managers indicating \"yes\":\nNumber = 12 Percentage = 1009\nHiring managers indicating \"no\":\nNumber = 0 Percentage = 0%\nTime Period: April 25, 2007 June 30, 2007"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0033",
+      "page_index": 7,
+      "text": "Analysis:\nThe WDVA uses e-Recruiting as a tool to recruit for candidates.\nWhile staff have been learning to use this new recruitment tool, there has been a learning curve that may have affected the number of days it reportedly takes to fill a position:\nSome appointments are not reported to the centralized data entry position until many days after the hiring decision has been made. This affects the \"average number of days to fill\" statistic.\nThe agency has not received any feedback from hiring managers through e-Recruiting: Instead, a survey was sent out to hiring managers to assess their satisfaction with candidate quality .\nCandidate quality surveys were not submitted for three positions.\nThe 'number of hires' data for candidate quality does not match the 'time to fill' data because some recruitments were used to fill multiple positions."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0034",
+      "page_index": 7,
+      "text": "Action Steps:\nOnce users are more comfortable with e-Recruiting, some data entry will be done at the local level. This will allow for more timely entry of hire information:\nProvide hiring managers with the access to and training in e-Recruiting. This will allow for candidate satisfaction surveys to be completed and tracked through the system rather than manually ."
+    },
+    {
+      "title": "Hire Workforce",
+      "node_id": "0035",
+      "page_index": 8,
+      "text": "Hire Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0036",
+      "page_index": 8,
+      "text": "Outcomes:\nBest candidates are hired and reviewed during appointment period. The right people are in the right job at the right time\nPerformance Measures Time-to-fill vacancies Candidate quality\nHiring Balance (proportion of appointment types)\nreview Separation during period",
+      "children": [
+        {
+          "title": "review Separation during period",
+          "node_id": "0037",
+          "page_index": 8,
+          "text": "review Separation during period"
+        }
+      ]
+    },
+    {
+      "title": "Hiring Balance / Separations During Review Period",
+      "node_id": "0038",
+      "page_index": 8,
+      "text": "Hiring Balance / Separations During Review Period"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0039",
+      "page_index": 8,
+      "text": "Analysis:\nPrior to separation; employees are provided an opportunity to improve.\nWhen appropriate; probationary periods are extended to provide an employee ample opportunity to improve and remain employed.\nThe employees who voluntarily separated during their review periods did so for a variety of reasons. Those reasons include:\nThe job was not a 'good fit\nThe work was too difficult\n\"Issues\" with co-workers\nAccept employment elsewhere\nDid not like the commute to work"
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0040",
+      "page_index": 8,
+      "text": "Action Steps:\nThe WDVA will continue to work with employees on correcting deficiencies in an attempt to make the employee successful.\nThe WDVA will continue to terminate employee who are unable to improve their behavior and /or performance.\nThe WDVA will work towards hiring employees who understand the expectations of the position and can fulfill them.   This will require training and support of our managers during the hiring and selection processes.\nThe WDVA will continue to address issues within workgroups to ensure employees do not feel the only way to resolve them is by resigning.\nData as of June 30, 2007\nSource:   HRMS; BW and WDVA Human Resource Offices",
+      "children": [
+        {
+          "title": "Figure (p.8)",
+          "node_id": "0147",
+          "page_index": 8,
+          "text": "# Types of Appointments\nThe image presents a pie chart illustrating the distribution of various types of appointments.\n\n## Chart Details\n- **Chart Type**: Pie Chart\n- **Title**: Types of Appointments\n\n## Data Series and Values\nThe pie chart is divided into the following segments:\n- **New Hires**: 66%\n- **Promotions**: 17%\n- **Transfers**: 6%\n- **Exempt**: 6%\n- **Other**: 5%\n\n## Additional Information\n- **Total Number of Appointments**: 113\n- **Time Period**: July 1, 2006, through June 30, 2007\n- **Note**: Includes appointments to permanent vacant positions only; excludes reassignments. \"Other\" = Demotions, re-employment, reversion & RIF appointments.\n\n## Summary\nThe pie chart accounts for the types of appointments made over a specific period, representing the distribution of new hires, promotions, transfers, exempt, and other types of appointments. The chart shows that new hires constitute the largest portion, totaling 66% of all appointments, which contributes significantly to the overall number of appointments. Promotions represent 17%, while transfers and exempt appointments each account for 6%. The \"other\" category, including demotions and re-employment, makes up 5%. The total number of appointments equals 113, covering a period from July 1, 2006, through June 30, 2007. This data provides insight into the hiring practices and personnel movements within an organization during that timeframe, indicating a heavy reliance on new hires. \n\n## Legend/Key\n- No explicit legend is provided, but the chart itself serves as a key to understanding the distribution of appointment types.\n\n## Detailed Report\nThe subject of the image, a pie chart titled \"Types of Appointments,\" represents the distribution of different appointment types within an organization over a one-year period. The chart shows that new hires account for 66% of appointments, which is a significant portion of the total 113 appointments made. This high percentage indicates that the organization relies heavily on external recruitment to fill vacant positions. Promotions constitute 17% of appointments, suggesting a moderate level of internal career advancement. Both transfers and exempt appointments make up 6% each, indicating a balanced approach to internal mobility and special appointments. The \"other\" category, comprising demotions, re-employment, reversion, and RIF appointments, totals 5%, showing that such instances are relatively rare. The data, which spans from July 1, 2006, to June 30, 2007, provides a comprehensive view of the organization's appointment trends, highlighting a preference for new hires while still supporting internal growth through promotions and transfers. This information is crucial for understanding the organization's staffing strategies and workforce dynamics during the specified period."
+        }
+      ]
+    },
+    {
+      "title": "Separation During Review Period",
+      "node_id": "0041",
+      "page_index": 8,
+      "text": "Separation During Review Period\n13\nProbationary separations Voluntary\n9\nProbationary separations Involuntary\nTotal Probationary Separations 13\nTrial Service separations Voluntary\nTrial Service separations Involuntary\nTotal Trial Service Separations\nTotal Separations During Review Period\nTime period = July 2006 through June 2007",
+      "children": [
+        {
+          "title": "13",
+          "node_id": "0042",
+          "page_index": 8,
+          "text": "13"
+        },
+        {
+          "title": "9",
+          "node_id": "0043",
+          "page_index": 8,
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0044",
+      "page_index": 9,
+      "text": "Deploy Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0045",
+      "page_index": 9,
+      "text": "Outcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are motivated.\nPerformance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on \"productive workplace\" questions\nOvertime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nWorker safety"
+    },
+    {
+      "title": "Current Performance Expectations",
+      "node_id": "0046",
+      "page_index": 9,
+      "text": "Current Performance Expectations"
+    },
+    {
+      "title": "Percent employees with current performance expectations =1009*",
+      "node_id": "0047",
+      "page_index": 9,
+      "text": "Percent employees with current performance expectations =1009*\n*Based on 585 of 585 reported employee count Applies to employees in permanent positions; both WMS & GS\nThe Washington State Department of Veterans Affairs was the first cabinet agency to receive Performance Management Confirmation.   Setting clear expectations for staff is key."
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0048",
+      "page_index": 9,
+      "text": "Analysis:\nThe WDVA has received Performance Management Confirmation: As part of our commitment to providing clear expectations to all staff, including supervisors; the Director set a target of 100% completion on Performance and Development Plans (PDP).\nSupervisors have been trained in writing effective PDPs.\nProgress in achieving a 100% completion rate is monitored and reported in management team meetings and is a priority.\nThe Human Resources staff provided updates on the completion rate to the Director quarterly .\nThe Director affirmed his commitment to a 100% completion rate and monitored our progress regularly ."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0049",
+      "page_index": 9,
+      "text": "Action Steps:\nMaintain 100% completion rate for performance expectations.\nComplete quarterly reviews of Performance and Development Plans (PDP) at the same rate (100%).\nUtilize the information gained from the PDPs in the Performance Management Confirmation awards process.\ncontinue reporting PDP completion rate to the Director on a quarterly basis."
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0050",
+      "page_index": 10,
+      "text": "Deploy Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0051",
+      "page_index": 10,
+      "text": "Outcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are motivated.\nPerformance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on 'productive workplace\" questions\nOvertime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nWorkers Safety"
+    },
+    {
+      "title": "Employee Survey \"Productive Workplace\" Ratings",
+      "node_id": "0052",
+      "page_index": 10,
+      "text": "Employee Survey \"Productive Workplace\" Ratings",
+      "children": [
+        {
+          "title": "Figure (p.10)",
+          "node_id": "0148",
+          "page_index": 10,
+          "text": "# Chart/Graph\n## Productive Workplace Ratings\n\n### Chart Type\nThe image is a bar chart displaying survey results for workplace productivity.\n\n### Title\nNo explicit title, but the chart compares WDVA and State responses to various workplace-related questions.\n\n### Axis Labels\n- **X-axis:** Represents the percentage of responses.\n- **Y-axis:** Lists questions (Q1, Q2, Q4, Q6, Q7, Q8, Q9).\n\n### Data Series\n- **WDVA (Workplace Development and Vocational Assistance):** \n  - Q4: 2%, 5%, 31%, 60%, 1% \n  - Q1: 10%, 13%, 23%, 31%, 22%, 2%\n  - Q2: 4%, 10%, 18%, 48%, 19%, 1%\n  - Q6: 4%, 9%, 15%, 46%, 24%, 1%\n  - Q7: 4%, 6%, 10%, 23%, 56%, 1%\n  - Q8: 7%, 11%, 17%, 26%, 39%, 1%\n  - Q9: 16%, 16%, 20%, 25%, 22%, 1%\n\n- **State:**\n  - Q4: 3%, 8%, 37%, 47%, 5%\n  - Q1: 8%, 12%, 23%, 32%, 22%, 2%\n  - Q2: 2%, 7%, 19%, 48%, 21%, 2%\n  - Q6: 3%, 8%, 18%, 45%, 22%, 2%\n  - Q7: 4%, 5%, 8%, 23%, 57%, 3%\n  - Q8: 7%, 10%, 19%, 29%, 33%\n  - Q9: 11%, 14%, 24%, 26%, 22%, 3%\n\n### Legend Entries\n- **Never:** Maroon\n- **Seldom:** Red\n- **Occasionally:** Yellow\n- **Usually:** Light Blue\n- **Always:** Blue\n\n### Annotations\n- **WDVA overall average score:** 3.80\n- **Statewide overall average score:** 3.81\n\n## Summary\nThe chart compares workplace productivity ratings between WDVA and State. \n- **WDVA** and **State** both have an overall average score, with WDVA at 3.80 and State at 3.81, indicating a very similar level of workplace productivity.\n- **Q4** shows 60% of WDVA respondents and 47% of State respondents always know what is expected of them at work.\n- **Q1** indicates 31% of WDVA and 32% of State respondents usually have the opportunity to give input on decisions affecting their work.\n- **Q2** shows 48% of both WDVA and State respondents usually receive the information needed to do their job effectively.\n- **Q6** indicates 46% of WDVA and 45% of State respondents usually have the tools and resources needed to do their job effectively.\n- **Q7** shows 56% of WDVA and 57% of State respondents always feel treated with dignity and respect by their supervisor.\n- **Q8** indicates 39% of WDVA and 33% of State respondents always receive ongoing feedback from their supervisor.\n- **Q9** shows 22% of both WDVA and State respondents always receive recognition for a job well done.\n\nThe data accounts for various aspects of workplace productivity and represents a comprehensive view of employee satisfaction and efficiency across different sectors. It totals and compares responses to provide insights into areas of strength and improvement. The information contributes to understanding what factors influence workplace productivity and how much they impact overall performance. The chart shows a detailed breakdown of responses, allowing for a nuanced analysis of workplace dynamics."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0053",
+      "page_index": 10,
+      "text": "Analysis:\nThe WDVA has worked diligently to update all position descriptions. AII employees are aware of what is expected of them at work.\nWDVA also has established a quarterly review process of Performance and Development Plans so employees know how are doing in meeting the expectations of their positions. they\nThe WDVA is performing at the statewide average in this category."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0054",
+      "page_index": 10,
+      "text": "Action Steps:\nAt the Extended Leadership level, the WDVA will continue to address setting expectation and employee feedback.\nWDVA will work with supervisors to encourage an environment where employees feel safe to discuss issues affecting their jobs; provide them with training and resources to effectively recognize their employees; and to ensure employees have the tools and resources to do their jobs.\nWe will continue to treat our employee with dignity and respect.\nWe will determine if our efforts are having a positive effect on employees when the next survey results are available in 2008."
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0055",
+      "page_index": 11,
+      "text": "Deploy Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0056",
+      "page_index": 11,
+      "text": "Outcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are motivated."
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0057",
+      "page_index": 11,
+      "text": "Performance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on \"productive workplace\" questions"
+    },
+    {
+      "title": "Overtime usage",
+      "node_id": "0058",
+      "page_index": 11,
+      "text": "Overtime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nWorker safety"
+    },
+    {
+      "title": "Overtime Usage",
+      "node_id": "0059",
+      "page_index": 11,
+      "text": "Overtime Usage\n*Statewide overtime values do not include DNR",
+      "children": [
+        {
+          "title": "Figure (p.11)",
+          "node_id": "0149",
+          "page_index": 11,
+          "text": "# Chart/Graph\n## Chart Type\nThe chart type is a line graph.\n\n## Title\nAverage Overtime (per capita)\n\n## Axis Labels\n- **Y-axis:** Average OT Hours\n- **X-axis:** Months from Jul-06 to Jun-07\n\n## Data Series\n### Avg OT Hrs - Agency\n- Jul-06: approximately 4\n- Aug-06: approximately 3\n- Sep-06: approximately 5\n- Oct-06: approximately 2\n- Nov-06: approximately 10\n- Dec-06: approximately 7\n- Jan-07: approximately 8\n- Feb-07: approximately 5\n- Mar-07: approximately 3\n- Apr-07: approximately 3\n- May-07: approximately 4\n- Jun-07: approximately 3\n\n### Avg OT Hrs - Statewide\n- Jul-06: approximately 5\n- Aug-06: approximately 6\n- Sep-06: approximately 4\n- Oct-06: approximately 6\n- Nov-06: approximately 6\n- Dec-06: approximately 6\n- Jan-07: approximately 5\n- Feb-07: approximately 5\n- Mar-07: approximately 4\n- Apr-07: approximately 5\n- May-07: approximately 5\n- Jun-07: approximately 5\n\n## Legend Entries\n- **Avg OT Hrs - Agency**: Represented by a solid blue line with square markers.\n- **Avg OT Hrs - Statewide**: Represented by a dashed black line with diamond markers.\n\n## Additional Information\n- Overall agency avg overtime usage – per capita, per month: 4.12\n\n## Summary\nThe line graph represents the average overtime hours per capita for an agency and statewide from July 2006 to June 2007. \n- The agency's average overtime hours per capita accounts for a varied trend, peaking at approximately 10 hours in November 2006.\n- The statewide average overtime hours per capita shows a relatively stable trend, ranging from 4 to 6 hours throughout the period.\n- The overall agency average overtime usage per capita per month totals 4.12 hours.\n- The agency's average overtime hours per capita shows a significant spike in November 2006, which contributes to the overall average.\n- The statewide average overtime hours per capita represents a baseline for comparison, with the agency's average overtime hours per capita often deviating from this baseline.\n- The graph shows that the agency's average overtime hours per capita is lower than the statewide average in some months, such as July 2006 and October 2006.\n- The data points for both series are as follows: \n  - Agency: (Jul-06, 4), (Aug-06, 3), (Sep-06, 5), (Oct-06, 2), (Nov-06, 10), (Dec-06, 7), (Jan-07, 8), (Feb-07, 5), (Mar-07, 3), (Apr-07, 3), (May-07, 4), (Jun-07, 3)\n  - Statewide: (Jul-06, 5), (Aug-06, 6), (Sep-06, 4), (Oct-06, 6), (Nov-06, 6), (Dec-06, 6), (Jan-07, 5), (Feb-07, 5), (Mar-07, 4), (Apr-07, 5), (May-07, 5), (Jun-07, 5)"
+        },
+        {
+          "title": "Figure (p.11)",
+          "node_id": "0150",
+          "page_index": 11,
+          "text": "# Overtime Cost - Agency\n\n## Chart Type\nThe image is a **bar chart**.\n\n## Chart Details\n- **Title**: Overtime Cost - Agency\n- **Chart Type**: Bar chart\n- **X-axis (Horizontal)**: Months\n- **Y-axis (Vertical)**: Overtime Cost ($)\n\n## Data Series\nThe chart displays a single data series for overtime costs across different months.\n\n## Data Points\nEnumerating every visible data point as (x-label, y-value):\n\n- (Jul-06, $72,352)\n- (Aug-06, $29,967)\n- (Sep-06, $69,605)\n- (Oct-06, $18,557)\n- (Nov-06, $160,084)\n- (Dec-06, $72,693)\n- (Jan-07, $110,279)\n- (Feb-07, $84,019)\n- (Mar-07, $34,823)\n- (Apr-07, $26,093)\n- (May-07, $62,443)\n- (Jun-07, $29,116)\n\n## Summary\nThe chart accounts for the overtime costs of an agency over 12 months, from July 2006 to June 2007. The overtime cost represents the total expenditure on overtime by the agency during this period. The chart shows that the highest overtime cost was $160,084 in November 2006, which contributes significantly to the total overtime cost. The lowest cost was $18,557 in October 2006. The total overtime cost for the 12 months is not explicitly shown but can be calculated by summing up the individual monthly costs.\n\n## Detailed Report\n- **What**: The chart displays the overtime costs for an agency.\n- **How much**: The costs range from $18,557 (Oct-06) to $160,084 (Nov-06).\n- **Which**: The months with the highest and lowest overtime costs are November 2006 and October 2006, respectively.\n- **Who**: The agency's overtime costs are being reported.\n- **Context**: The data spans from July 2006 to June 2007.\n\n## Summary of Key Information\n- The agency's overtime costs over 12 months are visualized.\n- The costs vary significantly across months, with a peak in November 2006.\n- The chart provides a clear view of the monthly overtime costs, allowing for the identification of trends and high-cost periods.\n\n## Legend/Key\nNo legend or key is provided in the image. \n\nThe final answer is:\n\nOvertime Cost - Agency\n\n## Chart Type\nThe image is a **bar chart**.\n\n## Chart Details\n- **Title**: Overtime Cost - Agency\n- **Chart Type**: Bar chart\n- **X-axis (Horizontal)**: Months\n- **Y-axis (Vertical)**: Overtime Cost ($)\n\n## Data Series\nThe chart displays a single data series for overtime costs across different months.\n\n## Data Points\nEnumerating every visible data point as (x-label, y-value):\n\n- (Jul-06, $72,352)\n- (Aug-06, $29,967)\n- (Sep-06, $69,605)\n- (Oct-06, $18,557)\n- (Nov-06, $160,084)\n- (Dec-06, $72,693)\n- (Jan-07, $110,279)\n- (Feb-07, $84,019)\n- (Mar-07, $34,823)\n- (Apr-07, $26,093)\n- (May-07, $62,443)\n- (Jun-07, $29,116)\n\n## Summary\nThe chart accounts for the overtime costs of an agency over 12 months, from July 2006 to June 2007. The overtime cost represents the total expenditure on overtime by the agency during this period. The chart shows that the highest overtime cost was $160,084 in November 2006, which contributes significantly to the total overtime cost. The lowest cost was $18,557 in October 2006. The total overtime cost for the 12 months is not explicitly shown but can be calculated by summing up the individual monthly costs.\n\n## Detailed Report\n- **What**: The chart displays the overtime costs for an agency.\n- **How much**: The costs range from $18,557 (Oct-06) to $160,084 (Nov-06).\n- **Which**: The months with the highest and lowest overtime costs are November 2006 and October 2006, respectively.\n- **Who**: The agency's overtime costs are being reported.\n- **Context**: The data spans from July 2006 to June 2007."
+        },
+        {
+          "title": "Figure (p.11)",
+          "node_id": "0151",
+          "page_index": 11,
+          "text": "# Chart/Graph\n## Chart Type\nThe chart is a line graph.\n\n## Title\n% Employees Receiving Overtime *\n\n## Axis Labels\n- **Y-axis:** Percent Employees\n- **X-axis:** Months from Jul-06 to Jun-07\n\n## Data Series\n### Pct EE's w/OT - Agency\n- Jul-06: approximately 55\n- Aug-06: approximately 20\n- Sep-06: approximately 45\n- Oct-06: approximately 40\n- Nov-06: approximately 50\n- Dec-06: approximately 50\n- Jan-07: approximately 50\n- Feb-07: approximately 40\n- Mar-07: approximately 20\n- Apr-07: approximately 15\n- May-07: approximately 40\n- Jun-07: approximately 15\n\n### Pct EE's w/OT - Statewide\n- Jul-06: approximately 20\n- Aug-06: approximately 15\n- Sep-06: approximately 20\n- Oct-06: approximately 20\n- Nov-06: approximately 20\n- Dec-06: approximately 20\n- Jan-07: approximately 20\n- Feb-07: approximately 15\n- Mar-07: approximately 15\n- Apr-07: approximately 15\n- May-07: approximately 15\n- Jun-07: approximately 15\n\n## Legend Entries\n- ■: Pct EE's w/OT - Agency\n- ◆: Pct EE's w/OT - Statewide\n\n## Additional Information\n- Overall agency avg employees receiving overtime per month: 34.0%**\n\n## Summary\nThe line graph represents the percentage of employees receiving overtime for an agency and statewide from July 2006 to June 2007. \n- The agency's percentage of employees receiving overtime accounts for approximately 55% in Jul-06, representing a high point.\n- The statewide percentage remains relatively stable, contributing around 20% throughout the period.\n- The agency's average percentage of employees receiving overtime shows a significant variation, totaling 34.0% over the year.\n- This graph shows that the agency's overtime rates are much higher than the statewide average for most months.\n- The agency's percentage of employees receiving overtime impacts the overall agency average, which represents 34.0% per month.\n- The graph indicates that the agency had a higher percentage of employees receiving overtime compared to the statewide average for the entire period shown."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0060",
+      "page_index": 11,
+      "text": "Analysis:\nBecause our agency operates 3, 24-hour health care facilities; 60% of the cost of overtime in the agency is tied to holidays and is unavoidable.\nBecause we have tapped into the available on-call candidate pool of RNs and nurses assistants; we have fewer available to fill in for staff during holidays or other time off. This adversely affects our ability to minimize the overtime hours staff must work.\nWe have provided supervisors and managers at our largest facility with training and tools to assist them in managing staff issues including unexpected absences."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0061",
+      "page_index": 11,
+      "text": "Action Steps:\nWe will continue to build the on-call pools for our nursing staff.\nWe will continue to provide supervisors and managers tools and training to minimize unexpected absences that can affect overtime. If we are successful in our trial, we will replicate in the other locations. If not; we will work on other tools that may work."
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0062",
+      "page_index": 12,
+      "text": "Deploy Workforce\nOutcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are motivated.\nPerformance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on \"productive workplace\" questions\nOvertime usage"
+    },
+    {
+      "title": "Sick leave usage",
+      "node_id": "0063",
+      "page_index": 12,
+      "text": "Sick leave usage\nNon-disciplinary filed grievanceslappeals and disposition (outcomes)\nWorker safety"
+    },
+    {
+      "title": "Sick Leave Usage",
+      "node_id": "0064",
+      "page_index": 12,
+      "text": "Sick Leave Usage",
+      "children": [
+        {
+          "title": "Figure (p.12)",
+          "node_id": "0152",
+          "page_index": 12,
+          "text": "# Average Sick Leave Use\n\n## Chart Type\nThe image is a line chart.\n\n## Chart Details\n- **Chart Type:** Line chart\n- **Title:** Average Sick Leave Use\n- **Y-axis Label:** Avg Hours\n- **X-axis Label:** Months from Jul-06 to Jun-07\n\n## Data Series\n### Per capita SL use - Agency\n- **Line Style:** Solid\n- **Marker:** Square\n- **Color:** Dark Blue\n- **Data Points:**\n  - Jul-06: approximately 5.5\n  - Aug-06: approximately 6\n  - Sep-06: approximately 6\n  - Oct-06: approximately 6\n  - Nov-06: approximately 6.5\n  - Dec-06: approximately 7\n  - Jan-07: approximately 7.5\n  - Feb-07: approximately 5.5\n  - Mar-07: approximately 6\n  - Apr-07: approximately 5.5\n  - May-07: approximately 5\n  - Jun-07: approximately 5.5\n\n### Per capita SL use - Statewide\n- **Line Style:** Dashed\n- **Marker:** Square\n- **Color:** Dark Blue\n- **Data Points:**\n  - Jul-06: approximately 6\n  - Aug-06: approximately 6.5\n  - Sep-06: approximately 6.5\n  - Oct-06: approximately 7\n  - Nov-06: approximately 7\n  - Dec-06: approximately 7.5\n  - Jan-07: approximately 8\n  - Feb-07: approximately 6\n  - Mar-07: approximately 7\n  - Apr-07: approximately 6.5\n  - May-07: approximately 6\n  - Jun-07: approximately 6\n\n### Just those who took SL - Agency\n- **Line Style:** Solid\n- **Marker:** Triangle\n- **Color:** Blue\n- **Data Points:**\n  - Jul-06: approximately 16\n  - Aug-06: approximately 13\n  - Sep-06: approximately 12\n  - Oct-06: approximately 13\n  - Nov-06: approximately 13\n  - Dec-06: approximately 14\n  - Jan-07: approximately 15\n  - Feb-07: approximately 12\n  - Mar-07: approximately 13\n  - Apr-07: approximately 13\n  - May-07: approximately 12\n  - Jun-07: approximately 14\n\n### Just those who took SL - Statewide\n- **Line Style:** Dashed\n- **Marker:** Triangle\n- **Color:** Blue\n- **Data Points:**\n  - Jul-06: approximately 11\n  - Aug-06: approximately 11\n  - Sep-06: approximately 11\n  - Oct-06: approximately 12\n  - Nov-06: approximately 11\n  - Dec-06: approximately 12\n  - Jan-07: approximately 13\n  - Feb-07: approximately 11\n  - Mar-07: approximately 12\n  - Apr-07: approximately 11\n  - May-07: approximately 11\n  - Jun-07: approximately 11\n\n## Legend\n- Per capita SL use - Agency: Dark blue solid line with square markers\n- Per capita SL use - Statewide: Dark blue dashed line with square markers\n- Just those who took SL - Agency: Blue solid line with triangle markers\n- Just those who took SL - Statewide: Blue dashed line with triangle markers\n\n## Summary\nThe line chart titled \"Average Sick Leave Use\" displays the average sick leave usage in hours from July 2006 to June 2007. It compares the per capita sick leave use and the average sick leave use for those who took sick leave, both at the agency and statewide levels.\n\n- The per capita sick leave use at the agency level **accounts for** approximately 5.5 to 7.5 hours throughout the period.\n- The per capita sick leave use at the statewide level **represents** approximately 6 to 8 hours throughout the period.\n- The average sick leave use for those who took sick leave at the agency level **totals** approximately 12 to 16 hours throughout the period.\n- The average sick leave use for those who took sick leave at the statewide level **shows** approximately 11 to 13 hours throughout the period.\n\nThe chart **contributes** to understanding the trends in sick leave usage across different levels (agency and statewide) and between per capita use and use among those who took sick leave. It **answers** questions about the **who** (agency vs. statewide), **what** (per capita vs. those who took sick leave), **how much** (hours of sick"
+        }
+      ]
+    },
+    {
+      "title": "Sick Leave Hrs Used Earned (per capita)",
+      "node_id": "0065",
+      "page_index": 12,
+      "text": "Sick Leave Hrs Used Earned (per capita)"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0066",
+      "page_index": 12,
+      "text": "Analysis:\nExtended absences of several staff affect these numbers. This specifically impacts the number of hours used per capita for those that use sick leave\nBecause of the nature of our work; it is necessary for staff to stay home when they are contagious so they to not compromise the fragile health of our residents or infect others\nIn a pilot at our largest facility, WDVA has provided tools and training to our supervisor to assist them in identifying leave use and abuse issues and to deal with them appropriately."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0067",
+      "page_index": 12,
+      "text": "Action Steps:\nWDVA will ensure employees continue to use sick leave appropriately . If supervisors have reason to suspect sick leave abuse, they require documentation that the absence was medically necessary in order to approve the leave.\nWe will implement tools and training for supervisors in dealing with leave issues at all of our facilities in an effort to positively affect our unexpected sick leave use_\nWDVA will explore other strategies to encourage a safe and healthful workplace.\n| Avg Hrs SL Used (per capita) Agency   |   % of SL Hrs Earned (per capita) Agency | Avg Hrs SL Used (per capita) Statewide*   |   % of SL Hrs Earned (per capita) Statewide* |\n|---------------------------------------|------------------------------------------|-------------------------------------------|----------------------------------------------|\n| 5.9 Hrs                               |                                    77.09 | 6.4 Hrs                                   |                                        82.59 |"
+    },
+    {
+      "title": "Sick Leave Hrs Used Earned (those who took SL)",
+      "node_id": "0068",
+      "page_index": 12,
+      "text": "Sick Leave Hrs Used Earned (those who took SL)\n| Avg Hrs SL Used (those who took Agency SL)   | % SL Hrs Earned (those who took Agency SL)   | Avg Hrs SL Used (those who took SL) _ Statewide*   | % SL Hrs Earned (those who took SL) ~ Statewide*   |\n|----------------------------------------------|----------------------------------------------|----------------------------------------------------|----------------------------------------------------|\n| 13.3 Hrs                                     | 166.7%                                       | 11.9 Hrs                                           | 148.4%                                             |\nSick Leave time period = July 2006 through June 2007\nStatewide data does not include DOL, DOR; L&I, and LCB"
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0069",
+      "page_index": 13,
+      "text": "Deploy Workforce\nOutcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are motivated.\nPerformance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on \"productive workplace\" questions\nOvertime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nWorker safety"
+    },
+    {
+      "title": "Non-Disciplinary Grievances (represented employees)",
+      "node_id": "0070",
+      "page_index": 13,
+      "text": "Non-Disciplinary Grievances (represented employees)\nTotal Non-Disciplinary Grievances = 1",
+      "children": [
+        {
+          "title": "Figure (p.13)",
+          "node_id": "0153",
+          "page_index": 13,
+          "text": "# Chart/Graph\n## Chart Type\nThe chart type is a bar graph.\n\n## Title\nNumber of Non-Disciplinary Grievances Filed\n\n## Axis Labels\n- **X-axis (Horizontal):** Months (Jul-06 to Jun-07)\n  - Jul-06\n  - Aug-06\n  - Sep-06\n  - Oct-06\n  - Nov-06\n  - Dec-06\n  - Jan-07\n  - Feb-07\n  - Mar-07\n  - Apr-07\n  - May-07\n  - Jun-07\n- **Y-axis (Vertical):** Number of Grievances (0 to 30)\n\n## Data Series\n- **Series Name:** Number of Non-Disciplinary Grievances Filed\n  - **Data Points:**\n    - (Jul-06, 0)\n    - (Aug-06, 0)\n    - (Sep-06, 0)\n    - (Oct-06, 0)\n    - (Nov-06, 0)\n    - (Dec-06, 1)\n    - (Jan-07, 0)\n    - (Feb-07, 0)\n    - (Mar-07, 0)\n    - (Apr-07, 0)\n    - (May-07, 0)\n    - (Jun-07, 0)\n\n## Legend\nNo legend entries are visible.\n\n## Annotations/Callouts\nNo annotations or callouts are visible.\n\n# Summary\nThe bar graph titled \"Number of Non-Disciplinary Grievances Filed\" represents the number of non-disciplinary grievances filed over a period from July 2006 to June 2007. The graph accounts for a single grievance filed in December 2006, with no grievances filed in any other month. The data shows that the number of grievances was 0 for most months, contributing to a total of 1 grievance for the entire period. This indicates that the majority of the months had no grievances filed. The graph totals one grievance for December 2006, which represents the only instance of grievance filing within the shown timeframe. The chart shows a single peak in December 2006, highlighting that grievances were minimal and sporadic. The data point (Dec-06, 1) signifies that one grievance was filed in December 2006. Overall, the graph illustrates a low and sporadic rate of non-disciplinary grievances filed during the period."
+        }
+      ]
+    },
+    {
+      "title": "Non-Disciplinary Grievance Disposition*",
+      "node_id": "0071",
+      "page_index": 13,
+      "text": "Non-Disciplinary Grievance Disposition*\n(Outcomes determined during 07/06 through 06/07)\nThis grievance was resolved at step 1 in the grievance process with the agreement there would be more cooperation and communication between labor and management."
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0072",
+      "page_index": 13,
+      "text": "Analysis:\nThe WDVA will continue to communicate with staff and shop stewards to address areas of concern before they turn into grievances.\nThe low number of grievances indicates WDVA does a good job in labor relations and communications."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0073",
+      "page_index": 13,
+      "text": "Action Steps:\nThe WDVA will continue to communicate with staff and shop stewards to address areas of concern before they become grievances.\nThe WDVA will continue to work towards satisfactory resolution of grievances at the lowest level possible."
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0074",
+      "page_index": 14,
+      "text": "Deploy Workforce\nOutcomes:\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees are\nmotivated.\nPerformance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on \"productive workplace\" questions\nOvertime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition (outcomes)\nWorker safety",
+      "children": [
+        {
+          "title": "motivated.",
+          "node_id": "0075",
+          "page_index": 14,
+          "text": "motivated."
+        }
+      ]
+    },
+    {
+      "title": "Non-Disciplinary Appeals (mostly non-represented employees)",
+      "node_id": "0076",
+      "page_index": 14,
+      "text": "Non-Disciplinary Appeals (mostly non-represented employees)"
+    },
+    {
+      "title": "Filings for DOP Director's Review",
+      "node_id": "0077",
+      "page_index": 14,
+      "text": "Filings for DOP Director's Review\nTime Period = July 2006 through June 2007\nJob classification\nRule violation\nName removal from register\nRejection of job application\nRemedial action\nTotal filings\nTotal outcomes = 0\nTime Period = 07/2006 through 6/2007"
+    },
+    {
+      "title": "Filings with Personnel Resources Board",
+      "node_id": "0078",
+      "page_index": 14,
+      "text": "Filings with Personnel Resources Board\nTime Period = July 2006 through June 2007\nJob classification\nOther exceptions to Director Review\nLayoff\nDisability separation\nNon-disciplinary separation\nTotal filings\nNon-Disciplinary appeals only are shown above:\nTotal outcomes 0 Time Period = 07/2006 through 06/2007"
+    },
+    {
+      "title": "Deploy Workforce",
+      "node_id": "0079",
+      "page_index": 15,
+      "text": "Deploy Workforce"
+    },
+    {
+      "title": "Outcomes",
+      "node_id": "0080",
+      "page_index": 15,
+      "text": "Outcomes\nStaff know job expectations, how they're doing; & are supported. Workplace is safe; gives capacity to perform; & fosters productive relations. Employee time and talent is used effectively . Employees\nare motivated.",
+      "children": [
+        {
+          "title": "are motivated.",
+          "node_id": "0081",
+          "page_index": 15,
+          "text": "are motivated."
+        }
+      ]
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0082",
+      "page_index": 15,
+      "text": "Performance Measures\nPercent employees with current performance expectations\nEmployee survey ratings on 'productive workplace' questions\nOvertime usage\nSick leave usage\nNon-disciplinary grievanceslappeals filed and disposition outcomes\nWorker Safety"
+    },
+    {
+      "title": "Worker_Safety:_Veterans_Affairs_Department of",
+      "node_id": "0083",
+      "page_index": 15,
+      "text": "Worker_Safety:_Veterans_Affairs_Department of"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0084",
+      "page_index": 15,
+      "text": "Analysis:\nClaims filed by employees at the WDVA is higher than the statewide average.\nBecause the work at our Veterans' Homes is physically demanding, the injury rate appears high.\nOverexertion is our highest claim category."
+    },
+    {
+      "title": "Allowed Annual Claims Rate*^_",
+      "node_id": "0085",
+      "page_index": 15,
+      "text": "Allowed Annual Claims Rate*^_\nAgency vs. All HR Management Report (HRMR) agencies\n*Annual claims rate is # claims 100 FTE\n1 FTE = 2000 hours\n^Due to natural lag in claim rates are expected to increase significantly over time filing,",
+      "children": [
+        {
+          "title": "1 FTE = 2000 hours",
+          "node_id": "0086",
+          "page_index": 15,
+          "text": "1 FTE = 2000 hours"
+        }
+      ]
+    },
+    {
+      "title": "Action Plan:",
+      "node_id": "0087",
+      "page_index": 15,
+      "text": "Action Plan:\nThe WDVA will consider options for managing claims more efficiently .\n'The WDVA will consider tools and training to increase safe work habits at our facilities to decrease our injury rate\n'The WDVA will analyze trends in our claim data to determine best approaches in minimizing and managing risk.\n'The WDVA will look at information for agencies with similar positions and duties to compare our numbers to.   This will help us compare our claims rate to a similarly situated work group.",
+      "children": [
+        {
+          "title": "Figure (p.15)",
+          "node_id": "0154",
+          "page_index": 15,
+          "text": "# Chart/Graph\n## Chart Type\nThe chart is a line graph.\n\n## Title\nNo title is present.\n\n## Axis Labels\n- The x-axis is labeled as **State Fiscal Quarter**.\n- The y-axis is not explicitly labeled but appears to represent the number of injuries.\n\n## Data Series\nThe graph includes the following data series:\n\n### Agency\n- **Agency - Total injuries resulting in L&I claim** (black solid line with circles)\n- **Agency - Total injuries resulting in only medical treatment** (green solid line with squares)\n- **Agency - Injuries resulting in lost time and medical treatment** (red solid line with triangles)\n\n### HRMR\n- **HRMR - Total injuries resulting in L&I claim** (black dotted line with circles)\n- **HRMR - Total injuries resulting in only medical treatment** (green dotted line with squares)\n- **HRMR - Injuries resulting in lost time and medical treatment** (red dotted line with triangles)\n\n## Data Points\nDue to the complexity and the visual nature of the data, exact data points are not extracted but can be estimated from the graph. \n\n## Legend\nThe legend is located on the right side of the graph and lists the data series with their corresponding colors and symbols.\n\n## Summary\nThe line graph compares the number of injuries resulting in L&I claims, medical treatment only, and lost time plus medical treatment between Agency and HRMR over eight quarters from 2002Q3 to 2007Q2.\n\n# Detailed Summary\n- The graph **accounts for** the total injuries and categorizes them based on the type of injury and the entity reporting (Agency or HRMR).\n- It **represents** the trend of injuries over eight quarters, starting from 2002Q3 to 2007Q2.\n- The **Agency** data shows a higher number of **total injuries resulting in L&I claim** compared to HRMR, with a peak in 2002Q3.\n- **HRMR** data indicates a relatively stable trend in **total injuries resulting in only medical treatment**.\n- **Agency - Injuries resulting in lost time and medical treatment** shows variability, with a notable peak in 2006Q4.\n\n## Summary Report\nThe line graph **shows** the comparison of injury types between Agency and HRMR over eight quarters. \n- **What**: The graph displays the number of injuries categorized by their impact (L&I claim, medical treatment only, lost time and medical treatment) for Agency and HRMR.\n- **How much**: The exact numbers are not provided, but the graph visually represents the trends and quantities.\n- **Who**: The data is categorized under Agency and HRMR.\n- **Which**: The graph compares two entities (Agency and HRMR) across multiple quarters.\n\nThe graph **contributes** to understanding the trends and differences in injury types between Agency and HRMR over time. \n\n## Legend/Key\n### Data Series Legends\n- Agency - Total injuries resulting in L&I claim\n- HRMR - Total injuries resulting in L&I claim\n- Agency - Total injuries resulting in only medical treatment\n- HRMR - Total injuries resulting in only medical treatment\n- Agency - Injuries resulting in lost time and medical treatment\n- HRMR - Injuries resulting in lost time and medical treatment"
+        }
+      ]
+    },
+    {
+      "title": "Injuries by Occupational Injury and Illness Classification (OIICS)",
+      "node_id": "0088",
+      "page_index": 15,
+      "text": "Injuries by Occupational Injury and Illness Classification (OIICS)",
+      "children": [
+        {
+          "title": "event:",
+          "node_id": "0089",
+          "page_index": 15,
+          "text": "event:\nFor fiscal period 200203 through 200702\n(categories under 3% or not adequately coded are grouped into 'misc. '\n| Oiics Code   | Oiics Description     | Percent Number   |     |\n|--------------|-----------------------|------------------|-----|\n| 61           | Assaults And Violent  | 5%               |  22 |\n| 21           | Bodily Reaction       | 8%               |  35 |\n| 13           | Fall On Same Level    | 9%               |  39 |\n|              | Misc                  | 189              |  74 |\n| 22           | Overexertion          | 439              | 178 |\n| 01           | Struck Against Object | 5%               |  22 |\n| 02           | Struck By Object      | 119              |  44 |",
+          "children": [
+            {
+              "title": "Figure (p.15)",
+              "node_id": "0155",
+              "page_index": 15,
+              "text": "## Chart/Graph\n### Pie Chart\n\n* **Chart Type:** Pie Chart\n* **Title:** [No title visible]\n\n### Axis Labels and Titles\n* No axis labels or titles visible\n\n### Data Series Names and Values\n* **Overexertion**: accounts for approximately 49% of the chart\n* **Misc**: accounts for approximately 23% of the chart\n* **Struck By Object**: accounts for approximately 12% of the chart\n* **Fall On Same Level**: accounts for approximately 9% of the chart\n* **Bodily Reaction**: accounts for approximately 5% of the chart\n* **Assaults And Violent**: accounts for approximately 2% of the chart\n* **Struck Against Object**: accounts for approximately 1% of the chart\n\n### Data Points\n* Enumerating data points for each series:\n\t+ Overexertion: (no exact value visible, approximately 49%)\n\t+ Misc: (no exact value visible, approximately 23%)\n\t+ Struck By Object: (no exact value visible, approximately 12%)\n\t+ Fall On Same Level: (no exact value visible, approximately 9%)\n\t+ Bodily Reaction: (no exact value visible, approximately 5%)\n\t+ Assaults And Violent: (no exact value visible, approximately 2%)\n\t+ Struck Against Object: (no exact value visible, approximately 1%)\n\n### Legend Entries\n* No legend entries visible, but the color-coded sections of the pie chart serve as a de facto legend\n\n## Summary\nThe pie chart represents the distribution of various types of incidents or injuries. Overexertion accounts for approximately 49% of the incidents, while Misc accounts for around 23%. Struck By Object and Fall On Same Level contribute 12% and 9%, respectively. Bodily Reaction, Assaults And Violent, and Struck Against Object make up smaller portions, at 5%, 2%, and 1%, respectively. The chart shows that Overexertion and Misc are the dominant categories, together totaling around 72% of the incidents. This suggests that these two categories are the most significant in terms of incident frequency. The chart does not provide a title or explicit values for each section, but it gives a clear visual representation of the relative proportions of each category."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Develop Workforce",
+      "node_id": "0090",
+      "page_index": 16,
+      "text": "Develop Workforce"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0091",
+      "page_index": 16,
+      "text": "Outcomes:\nA learning environment is created. Employees are engaged in professional development and seek to learn. Employees have competencies needed for present job and future advancement."
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0092",
+      "page_index": 16,
+      "text": "Performance Measures\nPercent employees with current individual development plans\nEmployee survey ratings on \"learning & development\" questions\nCompetency gap analysis (TBD)"
+    },
+    {
+      "title": "Individual Development Plans",
+      "node_id": "0093",
+      "page_index": 16,
+      "text": "Individual Development Plans"
+    },
+    {
+      "title": "Percent employees with current individual development plans = 1009",
+      "node_id": "0094",
+      "page_index": 16,
+      "text": "Percent employees with current individual development plans = 1009\nTotal # of employees with current IDPs* = 585\nTotal # of employees* = 585\n*Applies to employees in permanent positions; both WMS & GS"
+    },
+    {
+      "title": "Employee Survey \"Learning & Development\" Ratings",
+      "node_id": "0095",
+      "page_index": 16,
+      "text": "Employee Survey \"Learning & Development\" Ratings\nWDVA overall average score for Learning & Development Ratings: 3.59 Statewide overall average score for Learning & Development Ratings: 3.66",
+      "children": [
+        {
+          "title": "Figure (p.16)",
+          "node_id": "0156",
+          "page_index": 16,
+          "text": "# Chart/Graph\n## Chart Type\nThe image contains two horizontal bar charts.\n\n## Chart 1: Q5. I have opportunities at work to learn and grow.\n### Title\nQ5. I have opportunities at work to learn and grow.\n\n### Axis Labels\n- X-axis: Response categories (Never, Seldom, Occasionally, Usually, Always)\n- Y-axis: Entities being compared (WDVA, State)\n\n### Data Series\n#### WDVA\n- Never: 10%\n- Seldom: 17%\n- Occasionally: 23%\n- Usually: 25%\n- Always: 25%\n\n#### State\n- Never: 7%\n- Seldom: 12%\n- Occasionally: 21%\n- Usually: 30%\n- Always: 27% (27% and a small black segment, likely representing a negligible percentage, possibly 0%)\n\n### Legend Entries\n- Never: Dark red\n- Seldom: Red\n- Occasionally: Yellow\n- Usually: Light blue\n- Always: Blue\n\n### Additional Information\n- Average (WDVA): 3.38\n- Average (State): 3.59\n\n## Chart 2: Q8. My supervisor gives me ongoing feedback that helps me improve my performance.\n### Title\nQ8. My supervisor gives me ongoing feedback that helps me improve my performance.\n\n### Axis Labels\n- X-axis: Response categories (Never, Seldom, Occasionally, Usually, Always)\n- Y-axis: Entities being compared (WDVA, State)\n\n### Data Series\n#### WDVA\n- Never: 7%\n- Seldom: 11%\n- Occasionally: 17%\n- Usually: 26%\n- Always: 39%\n\n#### State\n- Never: 3%\n- Seldom: 8%\n- Occasionally: 37%\n- Usually: 47% \n- Always: (A small black segment, likely representing a negligible percentage, possibly 0%)\n\n### Legend Entries\n- Same as Chart 1\n\n### Additional Information\n- Average (WDVA): 3.80\n- Average (State): 3.72\n\n# Summary\nThe image presents two bar charts illustrating responses to work-related survey questions. \n\nThe first chart, Q5, accounts for the opportunities at work to learn and grow. It represents the distribution of responses from WDVA and the State. WDVA shows 10% never, 17% seldom, 23% occasionally, 25% usually, and 25% always, contributing to an average of 3.38. In contrast, the State shows 7% never, 12% seldom, 21% occasionally, 30% usually, and 27% always, totaling an average of 3.59. This indicates that the State represents a slightly higher average in opportunities for learning and growth.\n\nThe second chart, Q8, represents the feedback provided by supervisors. WDVA accounts for 7% never, 11% seldom, 17% occasionally, 26% usually, and 39% always, which totals an average of 3.80. The State shows 3% never, 8% seldom, 37% occasionally, and 47% usually with a negligible percentage always, contributing to an average of 3.72. This shows that WDVA represents a slightly higher average in supervisor feedback.\n\nOverall, the charts display the distribution of responses to questions about work opportunities and supervisor feedback, comparing WDVA and the State. They account for various response categories and provide averages for each entity, showing how much each category contributes to the overall average."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0096",
+      "page_index": 16,
+      "text": "Analysis:\nThe WDVA has received Performance Management Confirmation: As part of our commitment to our providing clear expectations to all staff; including supervisors, the Director set a target of 100% completion on Performance and Development Plans (PDP).\nSupervisors have been trained in writing effective PDPs, including completing the Training Development Needs and Opportunities section for each employee.\nWe are making strides in providing employees with opportunities for training.\nThe WDVA recognizes the importance of providing ongoing feedback about performance to employees.\nThe WDVA performs similarly to the statewide average in this category."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0097",
+      "page_index": 16,
+      "text": "Action Steps:\nThe WDVA has established a process for supervisors to meet quarterly with employees on their Performance and Development Plan. This facilitates ongoing opportunities for feedback on performance.\nThese quarterly reviews provide an opportunity to review training opportunities and needs.\nWe will review our progress towards improvement after the current survey results are available in 2008."
+    },
+    {
+      "title": "Reinforce Performance",
+      "node_id": "0098",
+      "page_index": 17,
+      "text": "Reinforce Performance"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0099",
+      "page_index": 17,
+      "text": "Outcomes:\nEmployees know how their performance contributes to the goals of the organization.  Strong performance is rewarded; poor performance is eliminated. Successful performance is differentiated and strengthened. Employees are held accountable."
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0100",
+      "page_index": 17,
+      "text": "Performance Measures\nPercent employees with current performance evaluations\nEmployee survey ratings on \"performance and accountability\" questions\nDisciplinary actions and reasons, disciplinary grievanceslappeals filed and disposition (outcomes)\nReward and recognition practices (TBD)"
+    },
+    {
+      "title": "Current Performance Evaluations",
+      "node_id": "0101",
+      "page_index": 17,
+      "text": "Current Performance Evaluations"
+    },
+    {
+      "title": "Percent employees with current performance evaluations = 1009*",
+      "node_id": "0102",
+      "page_index": 17,
+      "text": "Percent employees with current performance evaluations = 1009*\n*Based on 585 of 585 reported employee count Applies to employees in permanent positions; both WMS & GS\nThe Washington State Department of Veterans Affairs was the first cabinet agency to receive Performance Management Confirmation:.   Ensuring staff have received timely feedback on their job performance is to their overall success. key"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0103",
+      "page_index": 17,
+      "text": "Analysis:\nThe WDVA as received Performance Management Confirmation. As part of our commitment to providing specific feedback to our staff on their performance; we have set the expectation that 100% of performance evaluations be done in a timely manner .\nThe WDVA has instituted the same evaluation period for all staff. This has helped to facilitate easier tracking and reporting on our performance evaluation completion rate.\nThe Director has affirmed his commitment to a 100%/ completion rate for performance evaluations and has regularly monitored progress towards meeting that goal.\nWe have a few employees out on extended leave that are not included in these numbers. Upon their return, supervisors will work on setting expectations and evaluating these employees."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0104",
+      "page_index": 17,
+      "text": "Action Steps:\nThe WDVA will continue to monitor timely completion of our performance evaluations.\nThe WDVA will continue to expect a 100% completion rate from all of our supervisors.\nAs part of \"Supervisors Essentials\" training, WDVA supervisors will continue to receive training in writing effective performance evaluations."
+    },
+    {
+      "title": "Reinforce Performance",
+      "node_id": "0105",
+      "page_index": 18,
+      "text": "Reinforce Performance"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0106",
+      "page_index": 18,
+      "text": "Outcomes:\nEmployees know how their performance contributes to the goals of the organization.  Strong performance is rewarded; poor performance is eliminated. Successful performance is differentiated and strengthened. Employees are held accountable."
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0107",
+      "page_index": 18,
+      "text": "Performance Measures\nPercent employees with current performance evaluations\nEmployee survey ratings on 'performance and accountability\" questions\nDisciplinary actions and reasons, disciplinary grievanceslappeals filed and disposition (outcomes)\nReward and recognition practices (TBD)"
+    },
+    {
+      "title": "Employee Survey \"Performance & Accountability\" Ratings",
+      "node_id": "0108",
+      "page_index": 18,
+      "text": "Employee Survey \"Performance & Accountability\" Ratings"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0109",
+      "page_index": 18,
+      "text": "Analysis:\nSupervisors may not have made a clear connection for employees to understand how each impact and affect the agency mission. they\nThe prior training supervisors received on completing Performance and Development Plans (PDPs) may not have clearly identified the need to communicate each position's impact on the agency mission.\nSupervisors do a good job of holding employees accountable and are supported by management in doing so\nEmployee perception is they do not receive recognition when appropriate.\nThe WDVA performs slightly better than the statewide average in this category."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0110",
+      "page_index": 18,
+      "text": "Action Steps:\nPosition alignment with the agency's mission and goals is on every PDP . These plans are reviewed and discussed quarterly with employees so questions can be answered.\nSupervisor training on completing effective PDPS will continue, as needed.\nWDVA management will continue to provide support and guidance to supervisors in managing staff.\nTools and resources to recognize employees will be provided to supervisors and managers.\nThe WDVA will audit PDPs quarterly for content and completion.\nAvg\nQ3. know how my work contributes to the of my agency. goals\nQ10. My performance evaluation provides me with meaningful information about my performance.\n| WDVA   | 0/o L   | 179   | 33%   |   28% |    |   3.67 |\n|--------|---------|-------|-------|-------|----|--------|\n| State  | 11%     | 19%   | 30%   |   219 | 69 |   3.39 |\nQ11. My supervisor holds me and my co-workers accountable for performance.\n| WDVA   |     |   339 |   509 |   4.24 |\n|--------|-----|-------|-------|--------|\n| State  | 11% |   339 |   449 |   4.14 |\nQ9. receive recognition for a job well done.\n| WDVA   | 160   |   209 | 25%   | 22%   |   3.23 |\n|--------|-------|-------|-------|-------|--------|\n| State  | 11%   |   249 | 26%   | 22%   |   3.34 |\nNever Seldom Occasionally Usually Always\nPerformance and Accountability Ratings\nWDVA overall average score\n3.86\nStatewide overall average score:\n3.74",
+      "children": [
+        {
+          "title": "3.86",
+          "node_id": "0111",
+          "page_index": 18,
+          "text": "3.86"
+        },
+        {
+          "title": "3.74",
+          "node_id": "0112",
+          "page_index": 18,
+          "text": "3.74"
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0157",
+          "page_index": 18,
+          "text": "# Chart/Graph\n## Chart Type\nThe image is a **horizontal bar chart**.\n\n## Title\nNo title is provided.\n\n## Axis Labels and Titles\n- The horizontal axis represents different categories or labels: **WDVA** and **State**.\n- The vertical axis represents percentages.\n\n## Data Series Names and Values\nThere are two data series:\n1. **WDVA**\n   - The bar is divided into sections with the following percentages:\n     - Red: 3%\n     - Yellow: 10%\n     - Light Blue: 30%\n     - Dark Blue: 54%\n     - Black: 1%\n   - The total value associated with this series is: **4.30**\n\n2. **State**\n   - The bar is divided into sections with the following percentages:\n     - Red: 3%\n     - Yellow: 12%\n     - Light Blue: 36%\n     - Dark Blue: 42%\n     - Black: 3%\n   - The total value associated with this series is: **4.12**\n\n## Data Points\nEnumerating every visible data point:\n\n- For **WDVA**:\n  - (3%, 10%, 30%, 54%, 1%)\n- For **State**:\n  - (3%, 12%, 36%, 42%, 3%)\n\n## Legend Entries\nNo explicit legend entries are provided, but the colors and their corresponding percentages are:\n- Red: 3% (for both WDVA and State)\n- Yellow: 10% (WDVA), 12% (State)\n- Light Blue: 30% (WDVA), 36% (State)\n- Dark Blue: 54% (WDVA), 42% (State)\n- Black: 1% (WDVA), 3% (State)\n\n## Annotations, Callouts, Trend/Reference Lines\nNo annotations, callouts, or trend/reference lines are present.\n\n# Summary\nThe image represents a comparison between **WDVA** and **State** through a horizontal bar chart. \n- **WDVA** accounts for a total value of **4.30**, with percentages of **3% (red)**, **10% (yellow)**, **30% (light blue)**, **54% (dark blue)**, and **1% (black)**.\n- **State** accounts for a total value of **4.12**, with percentages of **3% (red)**, **12% (yellow)**, **36% (light blue)**, **42% (dark blue)**, and **3% (black)**.\nThe chart shows that **WDVA** has a higher percentage in the dark blue section (54%) compared to **State** (42%), while **State** has a higher percentage in the light blue section (36%) compared to **WDVA** (30%). \nThis comparison contributes to understanding the distribution of values between **WDVA** and **State**, representing different categories or metrics. \n\n## Legends, Keys & Footnotes\n### Legend\n- Red: 3% \n- Yellow: 10% (WDVA), 12% (State)\n- Light Blue: 30% (WDVA), 36% (State)\n- Dark Blue: 54% (WDVA), 42% (State)\n- Black: 1% (WDVA), 3% (State)"
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0158",
+          "page_index": 18,
+          "text": "# Chart/Graph\n## Chart Type\nThe image is a **horizontal bar chart** with two data series.\n\n## Title\nNo explicit title is provided.\n\n## Axis Labels and Titles\n- The x-axis represents percentages, with values ranging from 0% to an unspecified maximum.\n- The y-axis lists two categories: **WDVA** and **State**.\n\n## Data Series Names and Values\n### WDVA\n- The data series is represented by a horizontal bar divided into segments with the following values:\n  - 7%\n  - 12%\n  - 17%\n  - 33%\n  - 28%\n  - 3%\n- The total value for WDVA is **3.67**.\n\n### State\n- The data series is represented by a horizontal bar divided into segments with the following values:\n  - 11%\n  - 13%\n  - 19%\n  - 30%\n  - 21%\n  - 6%\n- The total value for State is **3.39**.\n\n## Data Points\nFor each data series, the data points are as follows:\n- **WDVA**: (7%, 12%, 17%, 33%, 28%, 3%)\n- **State**: (11%, 13%, 19%, 30%, 21%, 6%)\n\n## Legend/Annotations\nNo explicit legend or annotations are provided.\n\n# Summary\nThe image presents a horizontal bar chart comparing two data series: **WDVA** and **State**. \n- The **WDVA** series accounts for a total value of **3.67**, with segments representing **7%**, **12%**, **17%**, **33%**, **28%**, and **3%**.\n- The **State** series represents a total value of **3.39**, with segments showing **11%**, **13%**, **19%**, **30%**, **21%**, and **6%**.\n- The chart shows that **WDVA** and **State** have different distributions across their segments, with **WDVA** having a larger segment at **33%** and **State** having a more evenly distributed set of segments.\n- The **WDVA** series contributes more to the total value than the **State** series, with a difference of **0.28** between their total values."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0159",
+          "page_index": 18,
+          "text": "## Chart/Graph\n### Bar Chart\n\n#### Chart Type\nThe image represents a **bar chart**.\n\n#### Title\nNo title is provided.\n\n#### Axis Labels and Titles\n- No explicit axis labels or titles are provided.\n\n#### Data Series Names and Values\n- **WDVA**:\n  - (3%, 4%, 8%, 33%, 50%, 2%)\n- **State**:\n  - (3%, 5%, 11%, 33%, 44%, 3%)\n\n#### Data Points Enumeration\n- **WDVA**:\n  - First segment: 3%\n  - Second segment: 4%\n  - Third segment: 8%\n  - Fourth segment: 33%\n  - Fifth segment: 50%\n  - Sixth segment: 2%\n- **State**:\n  - First segment: 3%\n  - Second segment: 5%\n  - Third segment: 11%\n  - Fourth segment: 33%\n  - Fifth segment: 44%\n  - Sixth segment: 3%\n\n#### Legend Entries\nNo legend entries are explicitly provided.\n\n#### Annotations, Callouts, Trend/Reference Lines\n- Two numerical values are provided on the right side of the chart:\n  - **WDVA**: 4.24\n  - **State**: 4.14\n\n## Summary\nThe bar chart compares two data series, **WDVA** and **State**, across six segments. \n- **WDVA** accounts for 3%, 4%, 8%, 33%, 50%, and 2% across its segments, representing a total value of 4.24.\n- **State** represents 3%, 5%, 11%, 33%, 44%, and 3% across its segments, contributing to a total value of 4.14.\nThe chart shows the distribution of percentages across segments for both **WDVA** and **State**, with **WDVA** having a higher value in the fifth segment (50%) and **State** having a higher value in the second segment (5%). \nThe data points for each series are explicitly enumerated, showing how much each segment contributes to the total. \nThe values 4.24 and 4.14 likely represent a summary or average metric for **WDVA** and **State**, respectively. \nOverall, the chart provides a visual comparison of the two data series, **WDVA** and **State**, across multiple segments."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0160",
+          "page_index": 18,
+          "text": "# Chart/Graph\n## Chart Type\nThe image is a **horizontal stacked bar chart**.\n\n## Chart Details\n### Title\nNo title is visible.\n\n### Axis Labels and Titles\n- No explicit axis labels or titles are provided.\n\n### Data Series Names and Values\n- **WDVA**\n  - (No label, 16%)\n  - (No label, 16%)\n  - (No label, 20%)\n  - (No label, 25%)\n  - (No label, 22%)\n  - (No label, 11%)\n  - **Total/Score: 3.23**\n- **State**\n  - (No label, 11%)\n  - (No label, 14%)\n  - (No label, 24%)\n  - (No label, 26%)\n  - (No label, 22%)\n  - (No label, 3%)\n  - **Total/Score: 3.34**\n\n### Data Points\nEnumerating data points for each series:\n\n- **WDVA Series:**\n  - (1, 16%)\n  - (2, 16%)\n  - (3, 20%)\n  - (4, 25%)\n  - (5, 22%)\n  - (6, 11%)\n\n- **State Series:**\n  - (1, 11%)\n  - (2, 14%)\n  - (3, 24%)\n  - (4, 26%)\n  - (5, 22%)\n  - (6, 3%)\n\n### Legend Entries\nNo legend entries are visible.\n\n### Annotations, Callouts, Trend/Reference Lines\nNo annotations, callouts, or trend/reference lines are visible.\n\n## Summary\nThe image presents a horizontal stacked bar chart comparing two data series: **WDVA** and **State**. \n\n- The **WDVA** series accounts for 16%, 16%, 20%, 25%, 22%, and 11%, respectively, contributing to a total score of **3.23**.\n- The **State** series represents 11%, 14%, 24%, 26%, 22%, and 3%, respectively, totaling a score of **3.34**.\n- The chart shows that both series have similar distributions but differ in specific percentages and overall scores.\n- The **WDVA** series shows a more evenly distributed set of percentages, while the **State** series has a more varied distribution, with a notably lower sixth segment.\n\nThe chart allows for a visual comparison of how the two series, **WDVA** and **State**, are composed of different segments and how these segments contribute to their total scores. \n\n## Summary Report\nThe **WDVA** and **State** series are compared in a horizontal stacked bar chart. **WDVA** accounts for 16%, 16%, 20%, 25%, 22%, and 11%, totaling **3.23**. **State** represents 11%, 14%, 24%, 26%, 22%, and 3%, totaling **3.34**. This chart shows the composition and total scores of **WDVA** and **State**, indicating their differences in segment distribution and overall scores."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0161",
+          "page_index": 18,
+          "text": "# Image Analysis\n\n## Image Type\nThe image is a **Photograph/Scan**.\n\n\n## Extracted Information\n\nThe image contains a single, large, solid red square.\n\n\n## Summary\n\nThe image represents a solid red square, which accounts for the entirety of the visual content. The subject of the image is the red square itself, with no additional values or context provided. The image shows a single, uniform color, which contributes to a simple and straightforward visual representation. There is no information available to answer questions about \"what\", \"how much\", \"who\", or \"which\" in a meaningful way, as the image does not contain any text or additional details."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0162",
+          "page_index": 18,
+          "text": "# Image Classification\nThe image is classified as a **Photograph/Scan**.\n\n\n# Extraction\nThere is no visible text in the provided image.\n\n\n# Summary\nThe image shows a light blue square on a white background. The subject of the image appears to be a solid color swatch or a graphical element, but there is no text or additional information provided. The image accounts for a simple visual representation, but it does not represent any specific data, value, or context beyond its visual appearance. \n\nIn direct answers to the required questions:\n- **What**: The image shows a light blue square.\n- **How much**: There is no quantifiable information.\n- **Who**: There is no information about a person or entity.\n- **Which**: The image does not provide information to categorize or specify anything beyond its visual content.\n\nGiven the lack of text or detailed information, the summary focuses on the observable content of the image. \n\n## Legends, Keys & Footnotes\nThere are no legends, keys, or footnotes to extract from the image.\n\nThe final answer to the task, given the instructions and the content of the image, is that there is no detailed information to report beyond the description of a light blue square on a white background."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0163",
+          "page_index": 18,
+          "text": "# Image Classification\nThe image is classified as a **Photograph/Scan**.\n\n\n# Extraction\nThere is no visible text in the image.\n\n\n# Summary\nThe image shows a blue square on a white background. The blue square accounts for the entirety of the visual content, representing a simple graphic element. There is no text or additional information present in the image. \n\nIn summary, the image depicts a single blue square with no accompanying text or other visual elements."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0164",
+          "page_index": 18,
+          "text": "# Image Classification\nThe image is classified as a **Photograph/Scan**.\n\n\n# Extraction\nThere is no visible text in the provided image.\n\n\n# Summary\nThe image shows a bright yellow square on a white background. The subject of the image appears to be a solid color test patch or a color sample. The image accounts for a simple visual representation of a color, specifically a vibrant yellow tone. There is no additional information or context provided in the image. \n\nGiven the lack of text or specific details, the image represents a basic color swatch, which could be used for design or color reference purposes. The yellow square totals the entirety of the image content, with no other visual elements present. \n\nThe image does not provide answers to questions about specific values, quantities, or detailed descriptions beyond its visual representation of a color."
+        },
+        {
+          "title": "Figure (p.18)",
+          "node_id": "0165",
+          "page_index": 18,
+          "text": "# Image Classification\nThe image is classified as a **Photograph/Scan**.\n\n\n# Extraction\nThere is no visible text in the provided image.\n\n\n# Summary\nThe image shows a red square on a white background. The red square accounts for the primary visual element in the image, representing a solid color. The image totals one main object, which is the red square, and shows no additional information or context. The subject of the image is the red square itself, with no further details or values to report. \n\nIn direct answers to the questions:\n- **What**: The image shows a red square.\n- **How much**: There is one main object.\n- **Who**: Not applicable.\n- **Which**: The image is a simple color representation."
+        }
+      ]
+    },
+    {
+      "title": "Reinforce Performance",
+      "node_id": "0113",
+      "page_index": 19,
+      "text": "Reinforce Performance"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0114",
+      "page_index": 19,
+      "text": "Outcomes:\nEmployees know how their performance contributes to the goals of the organization.  Strong performance is rewarded; poor performance is eliminated. Successful performance is differentiated and strengthened. Employees are held\naccountable.",
+      "children": [
+        {
+          "title": "accountable.",
+          "node_id": "0115",
+          "page_index": 19,
+          "text": "accountable."
+        }
+      ]
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0116",
+      "page_index": 19,
+      "text": "Performance Measures\nPercent employees with current performance evaluations\nEmployee survey ratings on \"performance and accountability\" questions\nDisciplinary actions and reasons; disciplinary grievanceslappeals filed and disposition (outcomes)\nReward and recognition practices (TBD)"
+    },
+    {
+      "title": "Formal Disciplinary Actions",
+      "node_id": "0117",
+      "page_index": 19,
+      "text": "Formal Disciplinary Actions"
+    },
+    {
+      "title": "Disciplinary Action Taken",
+      "node_id": "0118",
+      "page_index": 19,
+      "text": "Disciplinary Action Taken\nTime period = July 2006 through June 2007\n| Dismissals                  | 3   |\n|-----------------------------|-----|\n| Demotions                   | 2   |\n| Suspensions                 |     |\n| Reduction in (RIP)* Pay     |     |\n| Total Disciplinary Actions* | 12  |\nReduction in is not currently available in HRMSIBW. Pay"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0119",
+      "page_index": 19,
+      "text": "Analysis:\nPerformance and behavior issues are addressed at as low a level as possible. Therefore, few problems rise to the level of formal discipline.\nSupervisors receive support in dealing with personnel issues; as the need arises.\nEmployees are provided with opportunities to improve their performance and behaviors in an effort to avoid discipline, whenever possible.\nAction Steps:\nWDVA will continue to train supervisors in effective management of staff and dealing with personnel issues.\nWDVA will continue to be proactive in dealing with HR issues in order to minimize the number of disciplinary actions taken against our employees.\nIf discipline is necessary; WDVA management will continue to support supervisors through the process."
+    },
+    {
+      "title": "Issues Leading to Disciplinary Action",
+      "node_id": "0120",
+      "page_index": 19,
+      "text": "Issues Leading to Disciplinary Action\nThere was one dismissal for poor attendance.\nThe second dismissal was for an employee's failure to abide by policies and procedures. This same employee failed to comply with supervisory directives.\nThe third dismissal was of an employee who purchased drugs from a resident.\nA demotion was for an employee's failure to provide proper care to residents and neglect of their rights.\nOne RIP was for an employee's failure to respond to a resident's request for nursing assistance.\nAnother RIP was for an employee's repeated operation of a state motor vehicle in an unsafe manner, failing to consider the safety of the residents being transported; and for failing to report accidents involving resident injury and property damage in a timely manner. This same employee was later demoted for similar unsafe driving and another accident.\nTwo employees received RIPs for poor attendance.\nAnother RIP was for inappropriate contact with a coworker.\nOne employee received a RIP for  verbally abusing a resident.\nThe last RIP was for a supervisor who borrowed prescription drugs from a subordinate employee for whom it was prescribed."
+    },
+    {
+      "title": "Reinforce Performance",
+      "node_id": "0121",
+      "page_index": 20,
+      "text": "Reinforce Performance"
+    },
+    {
+      "title": "Outcomes:",
+      "node_id": "0122",
+      "page_index": 20,
+      "text": "Outcomes:\nEmployees know how their performance contributes to the goals of the organization.  Strong performance is rewarded; poor performance is eliminated. Successful performance is differentiated and strengthened. Employees are held\naccountable.",
+      "children": [
+        {
+          "title": "accountable.",
+          "node_id": "0123",
+          "page_index": 20,
+          "text": "accountable."
+        }
+      ]
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0124",
+      "page_index": 20,
+      "text": "Performance Measures\nPercent employees with current performance evaluations\nEmployee survey ratings on \"performance and accountability\" questions\nDisciplinary actions and reasons; disciplinary grievanceslappeals filed and disposition (outcomes)\nReward and recognition practices (TBD)"
+    },
+    {
+      "title": "Disciplinary Grievances and Appeals",
+      "node_id": "0125",
+      "page_index": 20,
+      "text": "Disciplinary Grievances and Appeals",
+      "children": [
+        {
+          "title": "Figure (p.20)",
+          "node_id": "0166",
+          "page_index": 20,
+          "text": "# Disciplinary Grievances (Represented Employees)\n\n## Chart Type\nThe chart type is a **bar chart**.\n\n## Chart Details\n- **Title**: Disciplinary Grievances (Represented Employees)\n- **X-axis Label**: Months\n- **Y-axis Label**: Number of Grievances\n- **Y-axis Tick Values**: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20\n\n## Data Series\n- **Series Name**: Disciplinary Grievances\n- **Data Points**:\n  - (Jul-06, 2)\n  - (Aug-06, 0)\n  - (Sep-06, 2)\n  - (Oct-06, 1)\n  - (Nov-06, 0)\n  - (Dec-06, 0)\n  - (Jan-07, 0)\n  - (Feb-07, 1)\n  - (Mar-07, 0)\n  - (Apr-07, 0)\n  - (May-07, 3)\n  - (Jun-07, 0)\n\n## Additional Information\n- **Total # Disciplinary Grievances Filed**: 9\n\n## Summary\nThe bar chart represents disciplinary grievances filed by represented employees over a period from July 2006 to June 2007. The chart accounts for a total of 9 grievances filed during this time. \n- The subject, **Disciplinary Grievances**, represents the number of grievances filed by employees.\n- The value of grievances varies by month, with **July 2006** and **September 2006** each accounting for 2 grievances.\n- **May 2007** shows the highest number of grievances, contributing 3 grievances.\n- The months **August 2006**, **November 2006**, **December 2006**, **January 2007**, **March 2007**, **April 2007**, and **June 2007** each represent 0 grievances filed.\n- The total number of grievances filed across the period shows a varied trend, totaling 9 grievances. \n- The chart shows that most grievances were filed in **May 2007**, which accounts for a significant portion of the total."
+        }
+      ]
+    },
+    {
+      "title": "Disciplinary Appeals (Non-Represented Employees filed with Personnel Resources Board)",
+      "node_id": "0126",
+      "page_index": 20,
+      "text": "Disciplinary Appeals (Non-Represented Employees filed with Personnel Resources Board)\nTime Period = July 2006 through June 2007\nDismissal\nDemotion\nSuspension\nReduction in salary\nTotal Disciplinary Appeals Filed with PRB\nThere is no one-to-one correlation between the filings shown above and the outcomes displayed in the charts below. The time lag between filing date and when a decision is rendered can cross the time periods indicated."
+    },
+    {
+      "title": "Disposition (Outcomes) of Disciplinary Grievances",
+      "node_id": "0127",
+      "page_index": 20,
+      "text": "Disposition (Outcomes) of Disciplinary Grievances\nTime period = July 2006 through June 2007\nWDVA had four disciplinary grievances withdrawn at various steps in the process.\nOne grievance is considered to have been resolved at the second level as it was neither moved forward to the third level, nor withdrawn.\nOne grievance that was scheduled to go to arbitrations was withdrawn:.\nOne grievance was settled at the third step.\nTwo grievances are continuing through the process."
+    },
+    {
+      "title": "Disposition (Outcomes) of Disciplinary Appeals",
+      "node_id": "0128",
+      "page_index": 20,
+      "text": "Disposition (Outcomes) of Disciplinary Appeals\nTime period = July 2006 through June 2007\nWDVA did not have any disciplinary appeals filed with the Personnel Resources Board during the reporting period.\n*Outcomes issued by Personnel Resources Board"
+    },
+    {
+      "title": "ULTIMATE OUTCOMES",
+      "node_id": "0129",
+      "page_index": 21,
+      "text": "ULTIMATE OUTCOMES\nEmployees are committed to the work they do and the goals of the organization\nSuccessful, productive employees are retained\nThe state has the workforce breadth and depth needed for present and future success"
+    },
+    {
+      "title": "Performance Measures",
+      "node_id": "0130",
+      "page_index": 21,
+      "text": "Performance Measures\nEmployee survey ratings on commitment\" questions\nTurnover rates and types\nTurnover rate: occupational categories key\nWorkforce diversity profile\nRetention measure (TBD)"
+    },
+    {
+      "title": "Employee Survey \"Employee Commitment\" Ratings",
+      "node_id": "0131",
+      "page_index": 21,
+      "text": "Employee Survey \"Employee Commitment\" Ratings"
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0132",
+      "page_index": 21,
+      "text": "Analysis:\nEmployees did not appear to understand how their position impacts and supports the mission of the WDVA.\nThe WDVA has identified the need to advertise and verbalize metrics to determine success. Employees need to understand what success looks like and how will we know when we have achieved our goals.\nThe perception of our employees is that WDVA does not do a good job of recognizing them for a job well done. Though WDVA is committed to recognition; our staff does not see that.\nThe WDVA performs at the statewide average in this category."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0133",
+      "page_index": 21,
+      "text": "Action Steps:\nWDVA supervisors will continue to include position alignment with agency mission and goals on every Performance and Development Plan. Supervisors can use the quarterly review process to affirm the position's alignment with the agency mission and goals.\nWDVA management will clearly identify what success looks like and will communicate the metrics we will use to determine whether or not employees or the agency are successful.\nThe WDVA will continue to provide supervisors with the tools and resources to recognize staff.\nWe will review our progress towards improvement after the current survey results are available in 2008.\nQ3. know how my work contributes to the goals of my agency.\nAvg\nQ12 know how my agency measures its success.\nQ9. receive recognition for a job well done.\nWDVA overall average score for Employee Commitment Ratings: 3.63 Statewide overall average score for Employee Commitment Ratings:   3.62",
+      "children": [
+        {
+          "title": "Figure (p.21)",
+          "node_id": "0167",
+          "page_index": 21,
+          "text": "# Chart/Graph\n## Chart Type\nThe image shows a **horizontal bar chart**.\n\n## Chart Details\n### Title\nNo explicit title is provided.\n\n### Axis Labels and Titles\n- The chart has no explicit axis labels or titles.\n\n### Data Series Names and Values\nThere are two data series:\n1. **WDVA**\n   - The series is represented by a horizontal bar divided into segments with the following percentages:\n     - Red: 3%\n     - Yellow: 10%\n     - Light Blue: 30%\n     - Blue: 54%\n     - Dark Blue/Grey: 1%\n   - An additional value is provided: **4.30**\n\n2. **State**\n   - The series is represented by a horizontal bar divided into segments with the following percentages:\n     - Red: 3%\n     - Yellow: 12%\n     - Light Blue: 36%\n     - Blue: 42%\n     - Dark Blue/Grey: 3%\n   - An additional value is provided: **4.12**\n\n### Data Points\nFor each data series, the data points are as follows (enumerated from left to right):\n\n1. **WDVA**\n   - (0, 3%)\n   - (3%, 10%)\n   - (13%, 30%)\n   - (43%, 54%)\n   - (97%, 1%)\n\n2. **State**\n   - (0, 3%)\n   - (3%, 12%)\n   - (15%, 36%)\n   - (51%, 42%)\n   - (93%, 3%)\n\n### Legend Entries\nNo explicit legend entries are provided, but the color coding seems to be:\n- Red: 3%\n- Yellow: 10% and 12%\n- Light Blue: 30% and 36%\n- Blue: 54% and 42%\n- Dark Blue/Grey: 1% and 3%\n\n## Summary\nThe image presents a horizontal bar chart comparing two data series: **WDVA** and **State**. \n\n- **WDVA** accounts for a distribution of 3%, 10%, 30%, 54%, and 1%, totaling 98%, with an additional value of **4.30**.\n- **State** represents a distribution of 3%, 12%, 36%, 42%, and 3%, totaling 96%, with an additional value of **4.12**.\n\nThe chart shows that **WDVA** has a higher percentage in the blue segment (54%) compared to **State** (42%). Conversely, **State** has a higher percentage in the light blue segment (36%) compared to **WDVA** (30%). \n\nThe red segment accounts for 3% in both **WDVA** and **State**. The yellow segment represents 10% in **WDVA** and 12% in **State**. \n\nThe dark blue/grey segment represents 1% in **WDVA** and 3% in **State**.\n\n## Legends, Keys & Footnotes\nNo legends, keys, or footnotes are provided.\n\n## Summary Report\nThe chart compares **WDVA** and **State** across five segments. **WDVA** shows a distribution of 3%, 10%, 30%, 54%, and 1%, contributing to a total value of **4.30**. **State** shows a distribution of 3%, 12%, 36%, 42%, and 3%, contributing to a total value of **4.12**. \n\nThe **WDVA** series represents a higher value in one category, while the **State** series represents higher values in other categories. The exact nature and context of **WDVA** and **State** are not specified. \n\nThe chart indicates that **WDVA** and **State** have different distributions across the segments, with **WDVA** having a larger share in one segment and **State** in another. \n\nThe values **4.30** and **4.12** likely represent some form of average or index for **WDVA** and **State**, respectively. \n\nThe chart does not provide explicit details on what **WDVA** and **State** represent or the context of the percentages and values shown."
+        },
+        {
+          "title": "Figure (p.21)",
+          "node_id": "0168",
+          "page_index": 21,
+          "text": "# Chart/Graph\n## Chart Type\nThe image shows a **horizontal stacked bar chart**.\n\n## Chart Details\n### Title\nNo title is visible.\n\n### Axis Labels\n- No explicit axis labels are provided.\n- The x-axis appears to represent percentage values.\n- The y-axis lists two categories: \"WDVA\" and \"State\".\n\n### Data Series\nTwo data series are presented:\n1. **WDVA**\n2. **State**\n\n### Data Points\nFor each data series, the following data points are enumerated as (segment label, percentage value):\n\n#### WDVA\n- Segment 1: 11%\n- Segment 2: 16%\n- Segment 3: 20%\n- Segment 4: 31%\n- Segment 5: 22%\n\n#### State\n- Segment 1: 11%\n- Segment 2: 13%\n- Segment 3: 21%\n- Segment 4: 32%\n- Segment 5: 20%\n\n### Additional Values\n- **WDVA**: 3.36\n- **State**: 3.39\n\n## Legend\nNo explicit legend entries are visible.\n\n## Annotations/Callouts\nNo annotations or callouts are present.\n\n# Summary\nThe chart compares two categories, **WDVA** and **State**, across five segments, representing their distribution as percentages. \n- **WDVA** accounts for 11%, 16%, 20%, 31%, and 22% across its segments, totaling 3.36.\n- **State** represents 11%, 13%, 21%, 32%, and 20% across its segments, totaling 3.39.\nThe chart shows that both categories have similar distributions, but **State** has a slightly higher total value. \nThe largest segment in both **WDVA** and **State** is the fourth segment, which accounts for 31% and 32%, respectively. \nThe smallest segment in **WDVA** is the first segment at 11%, while in **State**, it is also the first segment at 11%. \nOverall, the chart provides a visual comparison of the two categories, **WDVA** and **State**, across five segments."
+        },
+        {
+          "title": "Figure (p.21)",
+          "node_id": "0169",
+          "page_index": 21,
+          "text": "# Chart/Graph\n## Chart Type\nThe image is a **horizontal stacked bar chart**.\n\n## Title\nNo explicit title is provided.\n\n## Axis Labels and Titles\n- The x-axis represents percentages, with no explicit title.\n- The y-axis lists two categories: **WDVA** and **State**.\n\n## Legend\nThe legend indicates the following color mappings:\n- **Never**: Dark brown/Maroon\n- **Seldom**: Red\n- **Occasionally**: Yellow\n- **Usually**: Light blue\n- **Always**: Blue\n\n## Data Series and Values\n### WDVA\n- **Never**: 16%\n- **Seldom**: 16%\n- **Occasionally**: 20%\n- **Usually**: 25%\n- **Always**: 22%\n\n### State\n- **Never**: 11%\n- **Seldom**: 14%\n- **Occasionally**: 24%\n- **Usually**: 26%\n- **Always**: 22%\n\n## Additional Information\n- Averages are provided for each category:\n  - **WDVA**: 3.23\n  - **State**: 3.34\n\n## Summary\nThe chart compares the frequency of an unspecified behavior or event between two groups, **WDVA** and **State**. \n- The **WDVA** group reports the following distribution: \n  - **Never**: 16%, \n  - **Seldom**: 16%, \n  - **Occasionally**: 20%, \n  - **Usually**: 25%, \n  - **Always**: 22%, \n  with an average score of **3.23**.\n- The **State** group reports the following distribution: \n  - **Never**: 11%, \n  - **Seldom**: 14%, \n  - **Occasionally**: 24%, \n  - **Usually**: 26%, \n  - **Always**: 22%, \n  with an average score of **3.34**.\nThe chart shows that the **State** group has a slightly higher average frequency score than the **WDVA** group. \n\n## Detailed Report\nThe WDVA and State groups' behaviors account for different frequencies. \n- The WDVA group represents **16%** who never exhibit the behavior, **16%** who seldom do, **20%** who occasionally do, **25%** who usually do, and **22%** who always do, contributing to an average of **3.23**.\n- The State group represents **11%** who never exhibit the behavior, **14%** who seldom do, **24%** who occasionally do, **26%** who usually do, and **22%** who always do, contributing to an average of **3.34**.\nThis shows that the State group usually accounts for a higher frequency of the behavior than the WDVA group. \nThe WDVA group totals **100%** across the frequency categories, as does the State group. \nThe chart shows that both groups have similar distributions but with the State group showing a slightly higher tendency towards usual and always behaviors. \n\n## Legend/Key\n- **Never**: Dark brown/Maroon\n- **Seldom**: Red\n- **Occasionally**: Yellow\n- **Usually**: Light blue\n- **Always**: Blue"
+        }
+      ]
+    },
+    {
+      "title": "ULTIMATE OUTCOMES",
+      "node_id": "0134",
+      "page_index": 22,
+      "text": "ULTIMATE OUTCOMES\nEmployees are committed to the work they do and the goals of the organization\nSuccessful, productive employees are retained\nThe state has the workforce breadth and depth needed for present and future success\nPerformance Measures\nEmployee survey ratings on \"commitment\" questions\nTurnover rates and types\nTurnover rate: occupational categories key\nWorkforce diversity profile\nRetention measure (TBD)"
+    },
+    {
+      "title": "Turnover Rates",
+      "node_id": "0135",
+      "page_index": 22,
+      "text": "Turnover Rates\nNote:   Movement to another agency is currently not available in HRMSIBW\nTotal Turnover Actions:\n60\nTotal % Turnover: 10.39",
+      "children": [
+        {
+          "title": "60",
+          "node_id": "0136",
+          "page_index": 22,
+          "text": "60"
+        },
+        {
+          "title": "Figure (p.22)",
+          "node_id": "0170",
+          "page_index": 22,
+          "text": "# Total % Turnover (leaving state)\n## Time Period: July 2006 through June 2007\n\nThe image presents a pie chart illustrating the total percentage turnover of employees leaving the state, categorized by reason.\n\n### Chart Type\nThe chart type is a **pie chart**.\n\n### Chart Details\n- **Title**: Total % Turnover (leaving state)\n- **Time Period**: July 2006 through June 2007\n- **Legend Entries**:\n  - **Resignation**: 6.7%\n  - **Retirement**: 1.2%\n  - **Other**: 2.1%\n  - **Dismissal**: 0.3%\n\n### Data Points\nThe pie chart is divided into four sections:\n1. **Resignation**: 6.7%\n2. **Retirement**: 1.2%\n3. **Other**: 2.1%\n4. **Dismissal**: 0.3%\n\n### Additional Information\n- **Total Turnover Actions**: 60\n- **Total % Turnover**: 10.3%\n- **Note**: Movement to another agency is currently not available in HRMS/BW.\n\n## Summary\n- The subject of the image is the total percentage turnover of employees leaving the state.\n- The time period accounts for July 2006 through June 2007, representing a 12-month span.\n- The total turnover actions represent 60 instances.\n- The total percentage turnover shows 10.3%.\n- Resignation contributes 6.7% to the turnover.\n- Retirement represents 1.2% of the turnover.\n- Other reasons account for 2.1% of the turnover.\n- Dismissal totals 0.3% of the turnover.\n- The note indicates that movement to another agency is not available in HRMS/BW, which could affect the accuracy of the data.\n\n## Legends, Keys & Footnotes\n- **Legend**: \n  - Resignation: 6.7%\n  - Retirement: 1.2%\n  - Other: 2.1%\n  - Dismissal: 0.3%\n- **Footnote**: Movement to another agency is currently not available in HRMS/BW."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0137",
+      "page_index": 22,
+      "text": "Analysis:\nThe largest percent of turnover at the WDVA is due to resignations.\nSome staff have indicated they were not fully prepared for the pace of work in our Homes.\nSome nursing staff are leaving for either more desirable shifts or days off."
+    },
+    {
+      "title": "Action Steps:",
+      "node_id": "0138",
+      "page_index": 22,
+      "text": "Action Steps:\nThe WDVA will work towards hiring employees who understand the expectations of the position and can fulfill them: This will require training and support of our managers during the hiring and selection processes.\nSupervisors will be provided training prior to; and support during; the process to ensure candidates are aware of the environment at our homes. hiring\nWDVA will explore the effectiveness of changing our staff on-boarding process to include assigning a \"buddy\" to new hires."
+    },
+    {
+      "title": "ULTIMATE OUTCOMES",
+      "node_id": "0139",
+      "page_index": 23,
+      "text": "ULTIMATE OUTCOMES\nEmployees are committed to the work they do and the goals of the organization\nSuccessful, productive employees are retained\nThe state has the workforce breadth and depth needed for present and future success\nPerformance Measures\nEmployee survey ratings on \"commitment\" questions\nTurnover rates and types\nTurnover rate: occupational categories key\nWorkforce diversity profile\nRetention measure (TBD)"
+    },
+    {
+      "title": "Workforce Diversity Profile",
+      "node_id": "0140",
+      "page_index": 23,
+      "text": "Workforce Diversity Profile\n|                 | Agency   | State   |\n|-----------------|----------|---------|\n| Female          | 749      | 539     |\n| Disabled        | 4%       | 5%      |\n| Vietnam Vet     | 8%       | 7%      |\n| Disabled Vet    | 6%       | 29      |\n| People of color | 26%      | 189     |\n| Persons over 40 | 799      | 759     |",
+      "children": [
+        {
+          "title": "Figure (p.23)",
+          "node_id": "0171",
+          "page_index": 23,
+          "text": "# Diversity Profile by Ethnicity - Agency\n\n## Chart Type\nThe image is a **bar chart**.\n\n## Chart Details\n- **Chart Type:** Bar chart\n- **Title:** Diversity Profile by Ethnicity - Agency\n- **Y-axis Label:** % Employees\n- **Y-axis Tick Values:** 0, 10, 20, 30, 40, 50, 60, 70, 80\n- **X-axis Labels:** \n  - % Black\n  - % Hispanic\n  - % Native American\n  - % Asian / Pacific Islander\n  - % Caucasian\n  - % Other\n\n## Data Series\n- **% Black:** \n  - Value: 5\n\n- **% Hispanic:** \n  - Value: 5\n\n- **% Native American:** \n  - Value: 2\n\n- **% Asian / Pacific Islander:** \n  - Value: 15\n\n- **% Caucasian:** \n  - Value: 74\n\n- **% Other:** \n  - Value: 0\n\n## Data Points\nEnumerating every visible data point:\n\n- **% Black:** (Black, 5)\n- **% Hispanic:** (Hispanic, 5)\n- **% Native American:** (Native American, 2)\n- **% Asian / Pacific Islander:** (Asian / Pacific Islander, 15)\n- **% Caucasian:** (Caucasian, 74)\n- **% Other:** (Other, 0)\n\n## Legend\nNo explicit legend entries are provided, but the colors used for each ethnicity are:\n- % Black: Orange\n- % Hispanic: Orange\n- % Native American: Orange\n- % Asian / Pacific Islander: Orange\n- % Caucasian: Orange\n- % Other: Orange\n\n## Summary\nThe Diversity Profile by Ethnicity - Agency bar chart accounts for the distribution of employees across different ethnicities. The chart represents the percentage of employees for each ethnic group. \n\n- The subject, **% Black**, accounts for 5% of employees.\n- The subject, **% Hispanic**, represents 5% of employees.\n- The subject, **% Native American**, contributes 2% to the total employees.\n- The subject, **% Asian / Pacific Islander**, totals 15% of employees.\n- The subject, **% Caucasian**, shows 74% of employees.\n- The subject, **% Other**, accounts for 0% of employees.\n\nThis chart shows that the majority of employees, 74%, are Caucasian, while the smallest percentage, 0%, is for the \"Other\" category. The chart provides a clear visual representation of the ethnic diversity within the agency."
+        },
+        {
+          "title": "Figure (p.23)",
+          "node_id": "0172",
+          "page_index": 23,
+          "text": "# Diversity Profile by Ethnicity - Statewide\n\n## Chart Type\nThe image is a bar chart.\n\n## Chart Details\n- **Chart Type:** Bar chart\n- **Title:** Diversity Profile by Ethnicity - Statewide\n- **Y-axis Label:** % Employees\n- **Y-axis Range:** 0 to 90\n- **X-axis Labels:**\n  - % Black\n  - % Hispanic\n  - % Native American\n  - % Asian / Pacific Islander\n  - % Caucasian\n  - % Other\n\n## Data Series\n- **% Black:** 5\n- **% Hispanic:** 5\n- **% Native American:** 2\n- **% Asian / Pacific Islander:** 6\n- **% Caucasian:** 82\n- **% Other:** 0\n\n## Data Points\nEnumerating every visible data point:\n- (% Black, 5)\n- (% Hispanic, 5)\n- (% Native American, 2)\n- (% Asian / Pacific Islander, 6)\n- (% Caucasian, 82)\n- (% Other, 0)\n\n## Legend\nNo explicit legend entries, but the colors used are consistently brown for all bars.\n\n## Summary\nThe Diversity Profile by Ethnicity - Statewide bar chart accounts for the ethnic distribution of employees across different groups. The chart represents the percentage of employees by ethnicity, showing that the Caucasian group accounts for 82% of employees, which totals the largest share. The Asian / Pacific Islander group contributes 6%, while both Black and Hispanic groups each represent 5%. The Native American group shows 2%, and there are no employees in the Other category. This chart shows the ethnic diversity of the statewide employee profile, with Caucasian employees being the predominant group. \n\nThe subject, value, and context of every data point are clearly outlined, answering what each ethnic group represents in terms of employee percentage. The chart helps in understanding the diversity profile, answering how much each group contributes to the overall employee distribution, and which groups are predominant or underrepresented. \n\nNo direct reference to other sections or charts is available since this is a standalone chart. However, it provides a comprehensive view of the ethnic diversity profile statewide."
+        },
+        {
+          "title": "Figure (p.23)",
+          "node_id": "0173",
+          "page_index": 23,
+          "text": "# Percent Age Distribution\n\n## Chart Type\nThe image is a bar chart.\n\n## Chart Details\n- **Chart Type:** Bar chart\n- **Title:** Percent Age Distribution\n- **Legend:**\n  - ■ All Employees (including WMS)\n  - ■ WMS Employees Only\n- **Axes:**\n  - **X-axis:** Age groups\n  - **Y-axis:** % Employees\n\n## Data Series and Values\n\n### All Employees (including WMS)\n- **Data Points:**\n  - (<15, 0)\n  - (15-19, 0)\n  - (20-24, 1)\n  - (25-29, 5)\n  - (30-34, 9)\n  - (35-39, 10)\n  - (40-44, 11)\n  - (45-49, 19)\n  - (50-54, 23)\n  - (55-59, 16)\n  - (60-64, 8)\n  - (65+, 2)\n\n### WMS Employees Only\n- **Data Points:**\n  - (<15, 0)\n  - (15-19, 0)\n  - (20-24, 0)\n  - (25-29, 0)\n  - (30-34, 6)\n  - (35-39, 4)\n  - (40-44, 0)\n  - (45-49, 13)\n  - (50-54, 17)\n  - (55-59, 35)\n  - (60-64, 22)\n  - (65+, 0)\n\n## Summary\nThe bar chart titled \"Percent Age Distribution\" compares the age distribution of all employees (including WMS) and WMS employees only. \n\n- The age distribution of **All Employees (including WMS)** accounts for 0% in the <15 age group, 0% in the 15-19 age group, 1% in the 20-24 age group, 5% in the 25-29 age group, 9% in the 30-34 age group, 10% in the 35-39 age group, 11% in the 40-44 age group, 19% in the 45-49 age group, 23% in the 50-54 age group, 16% in the 55-59 age group, 8% in the 60-64 age group, and 2% in the 65+ age group.\n\n- The age distribution of **WMS Employees Only** represents 0% in the <15 age group, 0% in the 15-19 age group, 0% in the 20-24 age group, 0% in the 25-29 age group, 6% in the 30-34 age group, 4% in the 35-39 age group, 0% in the 40-44 age group, 13% in the 45-49 age group, 17% in the 50-54 age group, 35% in the 55-59 age group, 22% in the 60-64 age group, and 0% in the 65+ age group.\n\nThe chart shows that WMS employees only have a higher concentration in the older age groups, particularly in the 55-59 age group, which totals 35%. In contrast, all employees (including WMS) have a more evenly distributed age range, with the highest percentage, 23%, in the 50-54 age group. This indicates that WMS employees contribute significantly to the higher age brackets, while all employees account for a broader age range. \n\nThe data points for each series show how much each age group represents of the total, allowing for a comparison of age distributions between the two groups. The chart answers what the age distribution looks like for both groups, how much each age group represents, and which age groups are most prevalent. \n\nOverall, the chart provides a clear visual representation of the age distribution among all employees and WMS employees only, highlighting the differences and similarities between the two groups."
+        }
+      ]
+    },
+    {
+      "title": "Analysis:",
+      "node_id": "0141",
+      "page_index": 23,
+      "text": "Analysis:\nThe WDVA has been and continues to be committed to diversity .\nThe WDVA is consistently above state average in the diversity of our workforce.\nBecause of the nature of our work (long term care facilities), and the specific physical requirements of those jobs, many of our positions are limited in the candidates we can appoint to these positions.\nAction Steps:\nThe WDVA will continue to make affirmative efforts to recruit a diverse workforce.\nThe WDVA will continue to participate in job fairs, information fairs, and other targeted recruitment events in an effort to continue to diversify our workforce."
+    }
+  ]
+}
