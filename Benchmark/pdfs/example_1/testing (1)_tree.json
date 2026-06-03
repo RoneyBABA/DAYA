@@ -1,0 +1,135 @@
+{
+  "total_pages": 4,
+  "nodes": [
+    {
+      "title": "TESTING",
+      "node_id": "0001",
+      "page_index": 1,
+      "text": "TESTING"
+    },
+    {
+      "title": "RAG (Retrieval Augmented Generation )",
+      "node_id": "0002",
+      "page_index": 1,
+      "text": "RAG (Retrieval Augmented Generation )\nLLMs are constrained by a fundamental architecture   limit the context window. Even with   longer   context; the   performance of the model deteriorates, leading to inability to accurately interpret and reason over complex domain-specific documents . To mitigate   the limitation; RAG emerged as the dominant solution. long;\nRAG (Retrieval Augmented Generation) is an AI framework that enhances the   capabilities of LLMs by   combining text generation   with information retrieval from the external knowledge base. Unlike traditional LLM that solely rely on pre-trained data, RAG fetches   relevant data in real   timegenerating more accurate and contextually aware responses.\nVector DB contains embeddings of knowledge base and retrieves the most similar instance to the query vector.  It then feeds the procured data to a LLM which ultimately generates response. The LLM does not need to be retrained as it can fetch context sensitive data from the updated knowledge base. RAG ensures that the generated response displays its source, which helps to check its validity and eradicate any hallucinations.\nRAG allows LLMs to identify whether the query is unanswerable (Not retrieved by RAG) instead of providing irrelevant information. RAG can hinder the user experience due its incompetence; by not answering the query instead of procuring the best of the available information.\nThe figure below depicts the working of the system:",
+      "children": [
+        {
+          "title": "Figure (p.1)",
+          "node_id": "0019",
+          "page_index": 1,
+          "text": "# Housing owned and rented in the UK\n\n## Chart Type\nThe image contains two pie charts.\n\n## Chart Details\n\n### 2007\n- **Chart Type**: Pie Chart\n- **Title**: 2007, 27 million homes\n- **Axis Labels**: None\n- **Legend Entries**:\n  - home owner\n  - social renting\n  - private renting\n  - social housing\n- **Data Series**:\n  - home owner: 70%\n  - social renting: 17%\n  - private renting: 11%\n  - social housing: 2%\n\n### 1991\n- **Chart Type**: Pie Chart\n- **Title**: 1991, 22 million homes\n- **Axis Labels**: None\n- **Legend Entries**:\n  - home owner\n  - social renting\n  - private renting\n  - social housing\n- **Data Series**:\n  - home owner: 60%\n  - social renting: 23%\n  - private renting: 11%\n  - social housing: 6%\n\n## Data Points\n\n### 2007 Data Points\n- home owner: (1, 70)\n- social renting: (1, 17)\n- private renting: (1, 11)\n- social housing: (1, 2)\n\n### 1991 Data Points\n- home owner: (1, 60)\n- social renting: (1, 23)\n- private renting: (1, 11)\n- social housing: (1, 6)\n\n## Legend\n- Green: home owner\n- Pink: social renting\n- Orange: private renting\n- Blue: social housing\n\n## Summary\n\nThe image represents housing owned and rented in the UK for the years 1991 and 2007. \n- In 2007, **70%** of 27 million homes were owned by their residents, accounting for the majority of homes.\n- In 1991, **60%** of 22 million homes were owner-occupied, showing an increase in home ownership over the 16-year period.\n- Social renting constituted **17%** of homes in 2007 and **23%** in 1991, indicating a decrease in social renting over time.\n- Private renting made up **11%** of homes in both 2007 and 1991, remaining constant.\n- Social housing accounted for **2%** of homes in 2007 and **6%** in 1991, showing a decline.\n\nThe charts compare the distribution of home ownership and renting in the UK between 1991 and 2007, highlighting changes in housing tenure over this period."
+        }
+      ]
+    },
+    {
+      "title": "Tree_Search",
+      "node_id": "0003",
+      "page_index": 1,
+      "text": "Tree_Search\nDocumentation\n:https:Idocs pageindex ailtutorialsltree-search"
+    },
+    {
+      "title": "LLM Tree Search",
+      "node_id": "0004",
+      "page_index": 1,
+      "text": "LLM Tree Search\nOne can simply provide their LLM with a prompt, to perform traversal.\n(Pagelndex uses a technique which combines the LLM tree search and value function-based Monte Carlo Tree Search (MCTS )) [Link Monte_Carlo tree_search Wikipedia]\nUser preferences and Expert Knowledge can be incorporated by   tweaking the LLM tree prompt   unlike  traditional RAGs   which require fine-tuning.\nScrap out the user expert knowledge snippets from the database with domain specific   rules. This can be done by keyword matching; semantic   similarity Or LLM based search.   Integrate it with the LLM Tree search prompt  to achieve more specific and targeted retrieval."
+    },
+    {
+      "title": "Expert Preference:",
+      "node_id": "0005",
+      "page_index": 2,
+      "text": "Expert Preference:\nIf the query mentions EBITDA adjustments; prioritize Item 7 (MD&A) and footnotes in Item 8 (Financial Statements) in 1O-K reports."
+    },
+    {
+      "title": "Value-based Tree Search",
+      "node_id": "0006",
+      "page_index": 2,
+      "text": "Value-based Tree Search\nAn AI model predicts a value that represents the similarity of content with the user query. Unlike the classic RAG approach; here we parent nodes based on association and not the chunks, itself.\n1 . Each node is divided into several chunks\n2 We   perform vector   search to retrieve top-k elements\n3 The   parent node is scored based on associativity of retrieved chunks.\n(NodeScore formula is given in the documentation)\nThe scoring   favours nodes with fewer highly; relevant chunks over those with many weakly relevant ones",
+      "children": [
+        {
+          "title": "1 . Each node is divided into several chunks",
+          "node_id": "0007",
+          "page_index": 2,
+          "text": "1 . Each node is divided into several chunks"
+        },
+        {
+          "title": "2 We   perform vector   search to retrieve top-k elements",
+          "node_id": "0008",
+          "page_index": 2,
+          "text": "2 We   perform vector   search to retrieve top-k elements"
+        },
+        {
+          "title": "9. DRAWBACKS",
+          "node_id": "0009",
+          "page_index": 2,
+          "text": "9. DRAWBACKS\n1 . LLM-based search may be slower due to the need for LLM reasoning.\n2 Relying solely on summaries may result in loss of important details.\n3 Using à pre-trained  embedding model to initialize the value function, may miss the relevant nodes and struggle to integrate expert knowledge."
+        }
+      ]
+    },
+    {
+      "title": "Hybrid Tree Search",
+      "node_id": "0010",
+      "page_index": 2,
+      "text": "Hybrid Tree Search\nInspired by Google's AlphaGo (Link AlphaGo Google DeepMind\nThe hybrid model combines to leverage strengths and overcome the limitations of both the approaches mentioned above."
+    },
+    {
+      "title": "Process",
+      "node_id": "0011",
+      "page_index": 2,
+      "text": "Process\n1 . Perform value-based tree search and LLM-based tree search simultaneously .\n2 Maintain à queue of   unique node elements . As nodes are   returned from either search, add them to the   queue only if are not already present. they\n3 A consumer   processes nodes from the queue, extracting Or summarizing relevant information from each node.\n4 The agent continually evaluates whether enough information has been gathered. If so, the process can terminate early.\n5 Do consider the first page of the next node, to make sure the content is not lost.\n6 Can use OPEN AI text embeddings.",
+      "children": [
+        {
+          "title": "6 Can use OPEN AI text embeddings.",
+          "node_id": "0012",
+          "page_index": 2,
+          "text": "6 Can use OPEN AI text embeddings."
+        }
+      ]
+    },
+    {
+      "title": "INFERENCE",
+      "node_id": "0013",
+      "page_index": 3,
+      "text": "INFERENCE\nThe following observations were done with the perspective of an end user. The conclusions were drawn by considering following parameters Performance, Relevancy to Document, Transparency, Ability to summarize.",
+      "children": [
+        {
+          "title": "1. GPT - 5.3",
+          "node_id": "0014",
+          "page_index": 3,
+          "text": "1. GPT - 5.3\nOpenAIs model GPT 5.3 model is a very capable LLM for daily use; but fails miserably in task specific actions: The responses were fairly but  very superficial in nature. The generated output refers to the external links other than the provided document while not tagging specific parts of the document. Hence, as a consumer it is not advisable to use GPT 5.3, to handle any domain specific documents. quick"
+        },
+        {
+          "title": "2. Gemini - 3",
+          "node_id": "0015",
+          "page_index": 3,
+          "text": "2. Gemini - 3\nGemini AI developed by Google was the quickest of all the three models chosen. It provides very balanced responses, which were as well as refrained to the provided document. Gemini did not tag the contents of the report and provided a basic summary. Gemini 3 is preferable over GPT 5.3 for summarizing large documents on a daily basis. quick"
+        },
+        {
+          "title": "3. PageIndex",
+          "node_id": "0016",
+          "page_index": 3,
+          "text": "3. PageIndex\nPageIndex was the slowest responding model of the three. On an average, it took 3 times longer to generate a response for a 134 pages long document. The response time may rise exponentially as the size of was looking for;   along with specifying the page number. The model included all the relevant information across multiple pages and provided an elaborate summary in comparison to Gemini."
+        }
+      ]
+    },
+    {
+      "title": "PageIndex Tree Index Example",
+      "node_id": "0017",
+      "page_index": 4,
+      "text": "PageIndex Tree Index Example\nNode node id: string, Unique node identifier name: // Human-readable label or title description: string, /l Optional detailed explanation of the node metadata: object; /l Arbitrary key-value pairs for context or attributes sub_nodes: [Node] /l Array of child nodes (recursive structure) \"node_ id\": \"0006\" \"title\" \"Financial Stability \"start index\": 21, \"end index\": 22, \"summary \"The Federal Reserve \"sub nodes\" . [ \"node id\" : \"0007\" \"title\": \"Monitoring Financial Vulnerabilities \"start index\": 22, \"end index\": 28, \"summary \"The Federal Reserve's monitoring } ] } string"
+    },
+    {
+      "title": "Roneys Super Car",
+      "node_id": "0018",
+      "page_index": 4,
+      "text": "Roneys Super Car",
+      "children": [
+        {
+          "title": "Figure (p.4)",
+          "node_id": "0020",
+          "page_index": 4,
+          "text": "# Photograph/Scan\n\n## Description\nThe image is a photograph of a red Ferrari sports car parked in front of a building with large glass windows.\n\n## Visible Text\n- No visible text.\n\n## Spatial Layout\n- The red Ferrari sports car is positioned centrally in the image, facing right.\n- The car has a black roof and gold rims.\n- A white sports car is partially visible behind the Ferrari on the right side.\n- The background features a building with large glass windows reflecting trees and a blue sky with clouds.\n\n## Summary\nThe photograph shows a red Ferrari sports car, which accounts for the central focus of the image. The car represents a high-performance vehicle with its sleek design and gold rims. The image totals two sports cars, with the red Ferrari being the primary subject. The scene shows a building with large glass windows in the background, which contributes to the setting of the photograph. The photograph was taken outdoors, as indicated by the reflection of trees and a blue sky with clouds in the windows. The image answers \"what\": a red Ferrari sports car; \"how much\": two sports cars; \"which\": a red Ferrari; and provides context for the scene."
+        }
+      ]
+    }
+  ]
+}
