@@ -1,0 +1,353 @@
+{
+  "total_pages": 18,
+  "nodes": [
+    {
+      "title": "Report on Pagelndex",
+      "node_id": "0001",
+      "page_index": 1,
+      "text": "Report on Pagelndex\nDeveloped by Mingtian Zhang and Yu at Vectify ai Ronak Patel Tang By"
+    },
+    {
+      "title": "INDEX",
+      "node_id": "0002",
+      "page_index": 2,
+      "text": "INDEX\n| CAPABILITIES 3                            |\n|-------------------------------------------|\n| ABSTRACT 3                                |\n| EXPECTATIONS - 3                          |\n| TESTING                                   |\n| QUERY 1                                   |\n| QUERY 2.                                  |\n| QUERY 3.                                  |\n| INFERENCE_                                |\n| CONCLUSION 8                              |\n| PREREQUISITES. 8                          |\n| Vector Databases                          |\n| Vector Indexing                           |\n| 1 . Flat Indexing.                        |\n| 2. ANN.                                   |\n| RAG 10                                    |\n| DRAWBACKS OF RAG                          |\n| Reasoning Failures _                      |\n| Structural Limitations                    |\n| Pagelndex _ 12                            |\n| Approach 12                               |\n| Index Tree 13                             |\n| BENCHMARK._ 14                            |\n| Case Study 1- Mafin2.5. 14                |\n| Takeaways. 14 Key                         |\n| Limitations of the Current Benchmark _ 15 |\n| Case Study 2 Pagelndex vs GPT5.1 15       |\n| 16                                        |\n| Takeaways. Key                            |\n| LEARNINGS 18                              |\n| LINKS. 18                                 |"
+    },
+    {
+      "title": "CAPABILITIES",
+      "node_id": "0003",
+      "page_index": 3,
+      "text": "CAPABILITIES\nClaims by Pagelndex\nCross Document Analysis\nTraceable and Explainable\nHigher accuracy\nNo Chunking\nNo Top-K\nNo vector DB\nPreserves Full Context\nHuman Like Retrieval\nMore Accurate and Efficient than ChatGPT\nCitations from\nPageIndex"
+    },
+    {
+      "title": "ABSTRACT",
+      "node_id": "0004",
+      "page_index": 3,
+      "text": "ABSTRACT\nThe report aims to study and summarize Page Index's capabilities to handle long form documents . The study determines whether PageIndex is any better than existing models in a production business academic legal environment.\nAll the models were provided with the annuaL report of Autoliv for the year 2025, to simulate long form documents like financial reports, regulatory files, academic textbooks; technical manuals; etc."
+    },
+    {
+      "title": "EXPECTATIONS",
+      "node_id": "0005",
+      "page_index": 3,
+      "text": "EXPECTATIONS\nThe model suitable for the given context must preserve the context of the entire document and precisely answer the queries. The generated outputs must strictly adhere to the information present in the document. There should be no or very less hallucinations by the model."
+    },
+    {
+      "title": "TESTING",
+      "node_id": "0006",
+      "page_index": 4,
+      "text": "TESTING\nBefore   learning  about Pagelndex; I wanted to test its capabilities against existing popular models GPT 5.3 and Gemini - 3.\nFor the accurate measure of the   performances free versions of aforementioned models were used.\nBoth of the models were enabled with deep thinking to retrieve best results without any constraints on time."
+    },
+    {
+      "title": "QUERY 1",
+      "node_id": "0007",
+      "page_index": 4,
+      "text": "QUERY 1\n<Read the document carefully and extract all the important points in a very detailed manner. The generated points will be considered to decide the future course of the company, hence take required time and perform research to fetch the points: deep"
+    },
+    {
+      "title": "Response_ Time",
+      "node_id": "0008",
+      "page_index": 4,
+      "text": "Response_ Time\nTime   taken to complete  the task by each of the models(ASC)  for response\nGPT 5.3\nPageIndex\nGemini - 3"
+    },
+    {
+      "title": "Response",
+      "node_id": "0009",
+      "page_index": 4,
+      "text": "Response\nGPT 5.3 https: //chatgpt comlshare/69a9034f-1bc8-8008-b628-6729f1f921c6\nPagelndex https:/lchat pageindex ai/sharelchat/cmn8p295u00021104hOevmpbe\nGemini 3 https: /lgemini google comlsharec9e68a4c6f6d"
+    },
+    {
+      "title": "QUERY2",
+      "node_id": "0010",
+      "page_index": 5,
+      "text": "QUERY2\n'Give me summary of the percentage of customers contributing to their net sales."
+    },
+    {
+      "title": "Relevant Data",
+      "node_id": "0011",
+      "page_index": 5,
+      "text": "Relevant Data"
+    },
+    {
+      "title": "Dependence on Customers (Page 42)",
+      "node_id": "0012",
+      "page_index": 5,
+      "text": "Dependence on Customers (Page 42)\nIn 2025, the Company's top five customers represented around 44% of its consolidated net  sales and the Company's ten customers represented   around 70%/ of its consolidated net sales . This reflects the concentration of manufacturers in the automotive   industry . In 2025 the Company's five largest customers accounted for around 40% of LVP and the ten largest customers for around 56% of global LVP. A delivery contract is typically for the lifetime of a vehicle model, which is normally between five and seven years   depending on customer platform   sourcing preferences and strategies. top global"
+    },
+    {
+      "title": "Response Time :",
+      "node_id": "0013",
+      "page_index": 5,
+      "text": "Response Time :\nGemini did respond swiftly, followed by PageIndex and GPT in the order ."
+    },
+    {
+      "title": "QUERY3",
+      "node_id": "0014",
+      "page_index": 6,
+      "text": "QUERY3\nWhat is the status of the legal proceedings the company was previously involved under the European Commission Investigation? in,"
+    },
+    {
+      "title": "Relevant Data",
+      "node_id": "0015",
+      "page_index": 6,
+      "text": "Relevant Data"
+    },
+    {
+      "title": "ANTITRUST MATTERS (PAGE 116)",
+      "node_id": "0016",
+      "page_index": 6,
+      "text": "ANTITRUST MATTERS (PAGE 116)\nThe trial associated with the lawsuit in the UK concluded and a ruling in the proceeding was in favor of the Company. On February 21, 2025, the United Kingdom Competition Appeal Tribunal unanimously dismissed plaintiffs'  claims against the Company.\nOn October 31, 2024, BMW filed a complaint   against the Company in Germany  claiming damages of €63 million plus interest (for a total claim of approximately €95 million) related to the conduct at issue in the EC investigation (the \"BMW Complaint\") BMW is one of two European OEMs   for which the Company pled guilty in 2017 in relation to the EC investigation. The Company has a period of six months to respond to the complaint and is currently assessing the viability of the complaint. The Company has determined pursuant to ASC 450 that a loss is reasonably possible with respect to the BMW Complaint. However;, the Company continues to evaluate this matter, no accrual has been recorded, and the estimated range of potential loss is between €0 and €95 million:  The Company cannot predict the ultimate outcome of the BMW Complaint.  This dispute could result in significant expenses as well as an unfavorable outcome that could have a material adverse impact on our customer relationships; business prospects, reputation; operating results; cash flows or financial condition; and our insurance would likely not mitigate such impact. The Company cannot predict the duration; scope, or ultimate outcome of any such disputes."
+    },
+    {
+      "title": "Response Time",
+      "node_id": "0017",
+      "page_index": 6,
+      "text": "Response Time\nGemini Model 3 took the lead, followed by GPT 5.3 and lastly by PageIndex."
+    },
+    {
+      "title": "INFERENCE",
+      "node_id": "0018",
+      "page_index": 7,
+      "text": "INFERENCE\nThe following observations were done with the perspective of an end user. The conclusions were drawn by considering following parameters Performance, Relevancy to Document, Transparency, Ability to summarize.",
+      "children": [
+        {
+          "title": "1. GPT 5.3",
+          "node_id": "0019",
+          "page_index": 7,
+          "text": "1. GPT 5.3\nOpenAIs model GPT 5.3 model is a very capable LLM for daily use, but fails miserably in task specific actions. The responses were fairly but very superficial in nature. The generated output refers to the   external links other than the   provided document while not tagging specific parts of the document. Hence, as a consumer it is not advisable to use GPT 5.3,to handle any domain specific documents. quick"
+        },
+        {
+          "title": "2. Gemini - 3",
+          "node_id": "0020",
+          "page_index": 7,
+          "text": "2. Gemini - 3\nGemini AI developed by Google was the quickest of all the three models chosen. It provides very balanced responses, which were as well as refrained to the provided document. Gemini did not tag the contents of the report and provided a basic summary . Gemini 3 is preferable over GPT 5.3 for summarizing large documents on a daily basis. quick"
+        },
+        {
+          "title": "3. PageIndex",
+          "node_id": "0021",
+          "page_index": 7,
+          "text": "3. PageIndex\nPageIndex was the slowest responding model of the three. On an average, it took 3 times longer to generate a response for a 134 pages long document. The response time may rise exponentially as the size of the document is increased.  PageIndex   did produce the output 1 was looking   for;,   along with specifying the   page number . The model included all the relevant information across multiple   pages and provided an elaborate summary in comparison to Gemini."
+        }
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "node_id": "0022",
+      "page_index": 8,
+      "text": "CONCLUSION\nPageIndex  is a favourable   option to handle   large  documents. It provides relevant information along with the necessary references.\nNo firm conclusions can be made on response time because, along with the model, infrastructure plays a vital role. system\n(To make a fair comparison all the prompts must be given to the models; after installing them locally:)"
+    },
+    {
+      "title": "PREREQUISITES",
+      "node_id": "0023",
+      "page_index": 8,
+      "text": "PREREQUISITES"
+    },
+    {
+      "title": "Vector Databases",
+      "node_id": "0024",
+      "page_index": 8,
+      "text": "Vector Databases\nVector Databases were developed to bridge the semantic gap created by traditional Relational   Databases . Vector   databases can store   layers of abstract information which is not possible traditionally, and is preferred to store unstructured data (Images, videos, audios; etc).\nThe database stores the vector embeddings of each instance which is generated by vector embedding models. Vector   embedding is an array of numbers,   representing the  value of each earned   feature. The embedding models do have multiple layers,   revealing and   storing more abstract information as the layers get deeper."
+    },
+    {
+      "title": "Vector Indexing",
+      "node_id": "0025",
+      "page_index": 8,
+      "text": "Vector Indexing\nEach instance in a Vector Database has a multi-dimensional vector. We can not compare our query vector with every existing data, hence we use Vector Indexing. Approximate near neighbours (ANN) algorithms like HNSF and IVF are implemented.  These techniques  trade in a small amount of accuracy for huge gains in the search speeds.",
+      "children": [
+        {
+          "title": "1. Flat Indexing",
+          "node_id": "0026",
+          "page_index": 9,
+          "text": "1. Flat Indexing\nbrute force approach which checks the query vector with all other vectors. EX : KNN (K Nearest Neighbours _"
+        },
+        {
+          "title": "2. ANN",
+          "node_id": "0027",
+          "page_index": 9,
+          "text": "2. ANN"
+        }
+      ]
+    },
+    {
+      "title": "IVF",
+      "node_id": "0028",
+      "page_index": 9,
+      "text": "IVF\nInverted File Indexing is a technique where the vector space is split into multiple clusters. The distance between the query and the centroid of each cluster is calculated. At the last stage we manually check for the most similar vector  within the   selected cluster   with the centroid nearest to the point. point\nDrawback Might miss on a more accuratelsimilar vector if its centroid is far. point"
+    },
+    {
+      "title": "HNSF",
+      "node_id": "0029",
+      "page_index": 9,
+      "text": "HNSF\nHierarchical Navigable Small World represents the vector DB in the form of a graph. It chooses a random entry at the beginning and traverses to its neighbour which is closer to the query HNSF does have   multiple   layers and each selected neighbour in the previous layers becomes the entry point for the next one. As the layer gets deeper, the resolution of the graph increases (i.e no. of edges connecting each node is higher) searching within a very specific, detailed part of the graph. The iteration stops if there are no neighbours closer to the query point than the node itself: point point.\nDrawback Might a wrong entry in the beginning which might be far from the   query but,  closer than its immediate neighbours . point get point"
+    },
+    {
+      "title": "RAG",
+      "node_id": "0030",
+      "page_index": 10,
+      "text": "RAG\nLLMs are  constrained by a fundamental   architecture limit the context   window. Even with  longer  context, the   performance of the model deteriorates, leading to inability to accurately interpret and reason over long, complex domain-specific documents . To mitigate the limitation, RAG emerged as the dominant solution.\nVector DB contains embeddings of knowledge base and retrieves the most similar instance to the query vector. It then feeds the procured data to a LLM which   ultimately   generates   response. The LLM does not need to be retrained as it can fetch context sensitive data from the updated knowledge base. RAG ensures that the generated response displays its source, which helps to check its validity and eradicate any hallucinations.\nRAG (Retrieval Augmented Generation) is an AI framework that enhances the capabilities of LLMs by combining text generation with information retrieval from the external knowledge base. Unlike traditional LLM that   solely rely on pre-trained   data, RAG fetches relevant   data in real time generating more accurate and contextually aware responses.\nRAG allows LLMs to identify whether the query is unanswerable (Not retrieved by RAG) instead of providing irrelevant information. RAG can hinder the user experience due its incompetence, by not answering the query instead of procuring the best of the available information."
+    },
+    {
+      "title": "The figure below depicts the working of the system:",
+      "node_id": "0031",
+      "page_index": 10,
+      "text": "The figure below depicts the working of the system:\nClassic RAG: the Structural Issues & Potential Solutions",
+      "children": [
+        {
+          "title": "Figure (p.10)",
+          "node_id": "0053",
+          "page_index": 10,
+          "text": "# Technical Diagram/Flowchart/Schematic\n\n## Labeled Components\n- **Knowledge Base (Documents)** → \n  - Vectorization → **Chunks** → \n  - Vectorization → **Vector DB**\n- **Vector DB** → \n  - Retrieval → **CONTEXT**\n- **CONTEXT** → \n  - Vectorization → **PROMPT**\n- **PROMPT** ← \n  - **Question** (from **User**)\n- **PROMPT** → \n  - **LLM** → \n  - **Response** (to **User**)\n\n## Directional Connections\n- **Knowledge Base (Documents)** → **Chunks** (Vectorization)\n- **Chunks** → **Vector DB** (Vectorization)\n- **Vector DB** → **CONTEXT** (Retrieval)\n- **CONTEXT** → **PROMPT** (Vectorization)\n- **Question** → **PROMPT**\n- **PROMPT** → **LLM**\n- **LLM** → **Response** (to **User**)\n\n## Hierarchy\n1. **Knowledge Base (Documents)**\n   - Contains documents that undergo vectorization.\n2. **Chunks**\n   - Result from vectorization of **Knowledge Base (Documents)**.\n3. **Vector DB**\n   - Stores vectorized chunks.\n4. **CONTEXT**\n   - Retrieved from **Vector DB**.\n5. **PROMPT**\n   - Formed by combining **Question** and **CONTEXT**.\n6. **LLM (Large Language Model)**\n   - Generates **Response** based on **PROMPT**.\n7. **User**\n   - Submits **Question**.\n   - Receives **Response**.\n\n## Callouts, Tooltips, Legends\n- No specific legends or keys provided.\n\n## Summary\nThe diagram illustrates a process involving a **Knowledge Base (Documents)**, which undergoes **Vectorization** into **Chunks** and is stored in a **Vector DB**. A **User** submits a **Question**, which, combined with **CONTEXT** retrieved from **Vector DB**, forms a **PROMPT**. This **PROMPT** is processed by **LLM** to generate a **Response**. The process accounts for how documents are vectorized and used to provide context for answering user questions. The **Vector DB** represents a database of vectorized document chunks, contributing to the context for the **LLM**. The **User** totals their interaction by submitting a question and receiving a response. The diagram shows how much of the process involves vectorization and retrieval to facilitate the question-answering mechanism."
+        }
+      ]
+    },
+    {
+      "title": "DRAWBACKS OF RAG",
+      "node_id": "0032",
+      "page_index": 11,
+      "text": "DRAWBACKS OF RAG"
+    },
+    {
+      "title": "Reasoning Failures",
+      "node_id": "0033",
+      "page_index": 11,
+      "text": "Reasoning Failures\nProblem Statement LLMs struggle to accurately interpret user queries and leverage contextual information resulting in misalignment between retrieved knowledge and query intent:.\nThe user queries are often ambiguous; resulting in a response which is similar to the actual data. In a domain specific environment many passages share near-identical semantics but differ critically in relevance. LLMs will select top-k vectors to provide non-specific, semantically similar   responses that are not fit for the use."
+    },
+    {
+      "title": "Structural Limitations",
+      "node_id": "0034",
+      "page_index": 11,
+      "text": "Structural Limitations\nProblem Statement These failures primarily arise from insufficient attention to the structure of knowledge sources and the use of inappropriate evaluation metrics .\nThe content is broken down into multiple chunks which is then embedded to store in a vector DB. Although methods like Dynamic Chunking Contextual   Chunking are better than Hard Chunking splitting up documents into multiple chunks guarantees the loss of its internal structure. Scientific papers and technical reports do have a structure of their own, which must be   preserved to context and accurate findings . References like 'refer to Table 5.2\", do not share semantic similarity with the referenced content, ultimately skipping a step in pre-processing. gain"
+    },
+    {
+      "title": "PageIndex",
+      "node_id": "0035",
+      "page_index": 12,
+      "text": "PageIndex\nPageIndex is a vectorless, reasoning based retrieval framework that enables   LLMs to reason logically rather   than relying only on semantic similarities, unlike traditional Vector-based approaches.\nNote Similarities do not always equate to relevance."
+    },
+    {
+      "title": "Approach",
+      "node_id": "0036",
+      "page_index": 12,
+      "text": "Approach\nPageIndex creates a chunk free segmentation that follows the natural structure of the document and maintains   precise   page   referencing while scaling it up to large documents. It transforms lengthy documents into a hierarchical tree structured index optimized for LLMs.\nIt follows the iterative process below:\nRead the Table of   Contents   (ToC) Understand the document's structure and identify sections that might be relevant.\nExtract Relevant Information Parse the selected section to gather any content that could help answer the question.\nSelect a Section Choose the section most likely to contain useful information based on the question.\nIs the Information Sufficient?\nYes Proceed to Answer the Question.\nNo Return to 1 and repeat the with another section. Step loop\n5 . Answer the Question Once enough information is collected, generate a complete and well-supported answer.",
+      "children": [
+        {
+          "title": "Figure (p.12)",
+          "node_id": "0054",
+          "page_index": 12,
+          "text": "# Technical Diagram/Flowchart/Schematic\n\n## Labeled Components and Connections\n\n* **Question** → **read the ToC**\n* **read the ToC** → **select a section**\n* **select a section** → **extract relevant information**\n* **extract relevant information** → **information sufficient?**\n* **information sufficient?** \n  - yes → **answer the question**\n  - no → **read the ToC**\n\n## Connector/Arrow Labels and Directional Connections\n\n* **Question** → **read the ToC** (arrow)\n* **read the ToC** → **select a section** (arrow)\n* **select a section** → **extract relevant information** (arrow)\n* **extract relevant information** → **information sufficient?** (dashed arrow)\n* **information sufficient?** \n  - **yes** → **answer the question** (arrow)\n  - **no** → **read the ToC** (dashed arrow)\n\n## Hierarchy and Structure\n\nThe image represents a flowchart with the following hierarchy:\n1. **Question**\n2. The process involves:\n   - Reading the ToC\n   - Selecting a section\n   - Extracting relevant information\n3. A decision is made based on whether the information is sufficient.\n\n## PageIndex Reasoning Process\n\n* **PageIndex Reasoning Process** (label in the center of the flowchart)\n\n## Additional Text\n\n* **Reasoning-Based RAG with PageIndex** (located at the bottom-left of the image)\n\n## Summary\n\nThe image depicts a **Reasoning-Based RAG with PageIndex** flowchart illustrating a decision-making process. \n- The process **accounts for** a question and involves reading the Table of Contents (ToC).\n- It **represents** a series of steps: selecting a section, extracting relevant information, and determining if the information is sufficient.\n- The flowchart **contributes** to answering a question by following a structured approach.\n- The process **totals** a sequence of actions that lead to either answering the question or revisiting the ToC.\n- The image **shows** a clear, step-by-step methodology for information retrieval and decision-making.\n\n## Legends, Keys & Footnotes\n\nNo legends, keys, or footnotes are present in the image.\n\nThe image is a Technical Diagram/Flowchart/Schematic."
+        }
+      ]
+    },
+    {
+      "title": "Index Tree",
+      "node_id": "0037",
+      "page_index": 13,
+      "text": "Index Tree\nA JSON-based hierarchical structure to   represent a Table of Contents (ToC) for unstructured documents . The ToC acts as an index tree that organizes content into hierarchical nodes. Each node represents a logical section (e.g chapter; page, etc) and may contain metadata; a description; and links to its sub-sections.\nUsers can control the model, maximum tokens per node, depth, and whether to include node IDs or summaries; enabling customization for tailored needs.\nThis approach allows an LLM to\nTraverse structured content recursively.\nRetrieve targeted raw data by node_id.\nAssociate contextual metadata (e.g source type, topics etc)"
+    },
+    {
+      "title": "PageIndex Tree Index Example",
+      "node_id": "0038",
+      "page_index": 13,
+      "text": "PageIndex Tree Index Example\nNode node_id: string; // Unique node identifier name: string, // Human-readable label or title description: string, /l Optional detailed explanation of the node metadata: object; // Arbitrary key-value pairs for context or attributes sub nodes: [Node] /l Array of child nodes (recursive structure) \"node_id\": \"0006\" \"title\": \"Financial Stability\" \"start index\": 21, \"end index\": 22, \"summary \"The Federal Reserve \"sub nodes 1 \"node id\": \"0007\" \"title\": \"Monitoring Financial Vulnerabilities \"start_index\": 22, \"end index\": 28, \"summary \"The Federal Reserve's monitoring _ } ] }",
+      "children": [
+        {
+          "title": "Figure (p.14)",
+          "node_id": "0055",
+          "page_index": 14,
+          "text": "# PageIndex Workflow\nThe image depicts a technical diagram illustrating the PageIndex Workflow.\n\n## Components and Connections\nThe workflow consists of the following components:\n- A document icon (left) \n- **Tree**: A tree-like structure with multiple nodes\n- **LLM Reasoning**: A box containing a smaller tree-like structure with a blue path highlighted\n\n## Connections and Flow\nThe components are connected as follows:\n- The document icon points to **Tree** \n- **Tree** points to **LLM Reasoning**\n- **LLM Reasoning** has two connections:\n  - **Query** (left)\n  - **Answer** (right)\n\n## Detailed Description\nThe workflow shows a process that starts with a document, which is then processed into a tree structure. This tree structure feeds into the **LLM Reasoning** component, which evaluates queries and provides answers. The **LLM Reasoning** component highlights a specific path through its tree-like structure, indicating a particular line of reasoning.\n\n## Summary\nThe PageIndex Workflow diagram represents a process that accounts for document processing and reasoning. The workflow shows how a document contributes to a tree structure, which then totals and represents the input for LLM Reasoning. This process shows how a query is evaluated and an answer is provided. The diagram illustrates which components are involved and how much they contribute to the workflow, answering what the process entails and how it works."
+        }
+      ]
+    },
+    {
+      "title": "BENCHMAEK",
+      "node_id": "0039",
+      "page_index": 14,
+      "text": "BENCHMAEK",
+      "children": [
+        {
+          "title": "1 Case Study 1- Mafin2 5",
+          "node_id": "0040",
+          "page_index": 14,
+          "text": "1 Case Study 1- Mafin2 5\nBuilt on PageIndex, Mafin2.5 is the latest finance RAG model by VectifyAI. The benchmark scores are based on FinanceBench, a test   suite  designed to evaluate the performance of LLMs on open-book financial question answering.\nAll the documents were stored in a single database, and Mafin2.5 was tested on the FinanceBench   public set. In cases where the questions are ambiguous , humans manually annotated the results."
+        },
+        {
+          "title": "11Key Takeaways",
+          "node_id": "0041",
+          "page_index": 14,
+          "text": "11Key Takeaways\n1 . Mafin 2.5 demonstrates massive improvements over previous versions, significantly increasing accuracy from Mafin 1 (38.0%) to Mafin 2.5 (98.7%), showcasing strong advancements in financial AI reasoning:\nMafin 2.5 is highly adaptable across different base models, achieving identical high performance (98.7%) on both ChatGPT 40 (public cloud) and Deepseek v3 (private deployable), making it flexible for various deployment needs.\n3 . Mafin 2.5 outperforms market competitors while covering the full benchmark (100%) with making the results publicly available. along"
+        }
+      ]
+    },
+    {
+      "title": "Limitations of the Current Benchmark",
+      "node_id": "0042",
+      "page_index": 15,
+      "text": "Limitations of the Current Benchmark"
+    },
+    {
+      "title": "Errors and Ambiguities in Evaluation",
+      "node_id": "0043",
+      "page_index": 15,
+      "text": "Errors and Ambiguities in Evaluation\nThe current benchmark may contain inconsistencies, ambiguities, or errors In ground truth answers, which can lead to misleading performance evaluations: These issues must be addressed to ensure a fair and reliable assessment of AI capabilities.   Establishing a more   rigorous annotation and   validation  process is essential for improving benchmark accuracy ."
+    },
+    {
+      "title": "Lack of Multi-Document Reasoning Tasks",
+      "node_id": "0044",
+      "page_index": 15,
+      "text": "Lack of Multi-Document Reasoning Tasks\nThe current benchmark primarily focuses on simple retrieval tasks based on a single document. However, real-world financial applications   require more advanced   reasoning   capabilities;   including   multi-step  retrieval across multiple documents . To improve the benchmark, we call for the inclusion of complex reasoning tasks that better reflect real-world decision-making and analysis.\nGPT 5.1 is equipped with a context window of 40Ok-token: Being able to fit a large chunk of data does not guarantee reliability, contrary the models 66 experience the context rot?  .\nThe following issues still persists with the model:\nContext   Confusion Mixing up numbers or details drawn from different sections of the document\nMissing   Information Omitting  values or definitions that are explicitly provided in the document\nLow Traceability Giving answers that are difficult to verify because they are not tied to any page or reference\nHallucination Producing confident but incorrect information",
+      "children": [
+        {
+          "title": "21 Kev Takeaways",
+          "node_id": "0045",
+          "page_index": 16,
+          "text": "21 Kev Takeaways\nPageIndex achieved 100% accuracy across all queries, by comparison, GPT 5.1 Instant scored 59.1% accuracy, and GPT 5.1 Thinking reached 81.8% accuracy .\nPageIndex also achieved lower latency followed by GPT Instant and GPT Thinking in order. 25.4, 33.5 and 53.5 (in seconds) are the average response time for each of the models respectively .\nBoth the versions of GPT model score low on traceability, as do not provide   precise source locations. PageIndex Chat   tags every response with   specific   page   references;   tying itself  back to the source. they"
+        }
+      ]
+    },
+    {
+      "title": "LIMITATIONS",
+      "node_id": "0046",
+      "page_index": 17,
+      "text": "LIMITATIONS\nThe OSS code stops after building the tree, developers must code for query analysis, tree traversal and response synthesis.\nThe model skew will be persistent because the framework is usually tuned for a specific LLM. Each node summary is an LLM call, resulting in increased API calls and cost.\nThe project   provides no published metrics for query latency in milliseconds; memory footprint under load, performance degradation curves at 10,000, 100,000, or one million document scale, or concurrent query handling capacity .\nThe framework addresses analyst workflows where -higher latency is acceptable:?\nPageIndex is not a plug-and-play RAG replacement, but a smarter indexer that still needs retrieval glue. One can surely use it to generate assets.\nTo be an enterprise ready solution PageIndex   requires   stability, observability, security, and the confidence that comes only from battle-tested deployments ."
+    },
+    {
+      "title": "LEARNINGS",
+      "node_id": "0047",
+      "page_index": 18,
+      "text": "LEARNINGS\n1 . Bps Basis Points. It equates to 0.01%, increase of 60 bps refers to +0.6\nCAGR Compound Annual Growth\n3 . LVP Light Vehicle Production\nOEMs Original Equipment Manufactures\n5 . The difference between literal   words and its abstract meaning is known as the Semantic Gap\nTypes of word embedding : Frequency based, Prediction based, Contextual\n7 . MCP Model Context Protocol",
+      "children": [
+        {
+          "title": "3 . LVP Light Vehicle Production",
+          "node_id": "0048",
+          "page_index": 18,
+          "text": "3 . LVP Light Vehicle Production"
+        },
+        {
+          "title": "7 . MCP Model Context Protocol",
+          "node_id": "0049",
+          "page_index": 18,
+          "text": "7 . MCP Model Context Protocol"
+        }
+      ]
+    },
+    {
+      "title": "LINKS",
+      "node_id": "0050",
+      "page_index": 18,
+      "text": "LINKS\nPageIndex: Reasoning-based RAG Install and Test Locally\nWhat is a Vector Database? Powering Semantic Search & AI Applications\nWhat is Retrieval-Augmented Generation (RAG)?\nVector Search & Approximate Nearest Neighbors (ANN) FAISS (HNSW & IVF)\nPhD Student Explains LIMITATIONS ofRAG AI (Retrieval Augmented Generation)\nContext Rot: How Increasing Input Tokens Impacts LLM Performance\nIntroducing Pagelndex: Next-Generation Reasoning-based RAG\nPageIndex: Next-Generation Vectorless. Reasoning-based RAG\nPageIndex Developer Docs\nGitHub VectifyAlMafin?2 5-FinanceBench: FinanceBench_evaluation_of_Mafin 2.5 (Powered by PageIndex) GitHub\nGitHub patronus-ailfinancebench GitHub\n2311.11944\nGitHub Vectify AI/PageIndex: PageIndex: Document Index for Vectorless Reasoning-based RAG GitHub\nPageIndex vs ChatGPT 5.1\nExample:_ precise_verifiable question answering on a 206-page document with PageIndex Google Docs\nComparison of PageIndex . ChatGPT 5.1 Instant and ChatGPT 5.1 Thinking on long-document QA on UK energy network business_plans Google Sheets",
+      "children": [
+        {
+          "title": "2311.11944",
+          "node_id": "0051",
+          "page_index": 18,
+          "text": "2311.11944"
+        }
+      ]
+    },
+    {
+      "title": "Blogs",
+      "node_id": "0052",
+      "page_index": 18,
+      "text": "Blogs\nPageIndex: The Qpen-Source Reasoning-Based RAG Framework | AIBit\nWhy 1m_Experimenting_with_PageIndex and_Where It Still Falls Short by Ishan Nag | Medium\nPageIndex: Promising_Paradigm_Shift_in RAG_Architecture_That Isn't Quite_Ready_for Production by Datastreams | Medium"
+    }
+  ]
+}
