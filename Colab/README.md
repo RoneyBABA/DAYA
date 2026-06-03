@@ -32,10 +32,6 @@ Required secrets (left sidebar → 🔑 Secrets):
 | `LLM_API_KEY` | [console.groq.com](https://console.groq.com) |
 | `EMBEDDING_API_KEY` | [jina.ai](https://jina.ai) — prefix with `Bearer ` |
 
-For Comparission
-
-| `PAGEINDEX_API_KEY` | [PageIndex.ai](https://dash.pageindex.ai/api-keys) |
-
 ---
 
 ## Swapping Components
